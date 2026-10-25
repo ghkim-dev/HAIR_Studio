@@ -1,0 +1,9 @@
+requests>=2.31
+python-dotenv>=1.0
+Pillow>=10.0
+# Optional: frame extraction for video verification
+opencv-python-headless>=4.8
+# Expo web service (python -m webapp.server)
+fastapi>=0.110
+uvicorn>=0.27
+qrcode[pil]>=7.4

@@ -1,0 +1,2657 @@
+{
+  "gender": "female",
+  "terms": [
+    {
+      "term": "단발",
+      "aliases": [
+        "단발머리",
+        "단발컷",
+        "bob hair",
+        "short bob hair",
+        "danbal"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "chin",
+        "layers": "one_length",
+        "ends": "blunt",
+        "silhouette": "straight_line",
+        "updo": "none"
+      },
+      "visual_en": "Hair cut to end at the jawline all around, with ends falling in a fairly even line; neck mostly visible below the hair.",
+      "must_not": [
+        "shoulder-length hair",
+        "very short pixie with ears exposed",
+        "heavily layered shaggy cut"
+      ],
+      "description_ko": "턱선 전후 기장으로 자른 짧은 머리의 총칭. 세부 형태(층·컬)는 단발 앞에 붙는 수식어로 구분한다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=281545",
+        "https://www.allurekorea.com/?p=359006"
+      ]
+    },
+    {
+      "term": "중단발",
+      "aliases": [
+        "중단발머리",
+        "중간단발",
+        "미디엄 단발",
+        "medium length hair",
+        "mid length hair"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "shoulder",
+        "updo": "none"
+      },
+      "visual_en": "Medium-length hair that falls past the jaw and reaches roughly the shoulders, longer than a bob but not long hair.",
+      "must_not": [
+        "chin-length bob",
+        "chest-length long hair"
+      ],
+      "description_ko": "턱 아래~어깨선 사이의 기장. 거지존과 겹치는 길이로, 층이나 C컬을 더해 연출하는 경우가 많다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/?p=294961",
+        "https://www.wkorea.com/?p=347098"
+      ]
+    },
+    {
+      "term": "긴생머리",
+      "aliases": [
+        "긴 생머리",
+        "긴머리",
+        "롱헤어",
+        "long straight hair",
+        "생머리"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "chest",
+        "texture": "straight",
+        "layers": "one_length",
+        "finish": "glossy",
+        "updo": "none"
+      },
+      "visual_en": "Long straight hair worn down, reaching the chest, with little or no layering and a smooth glossy fall.",
+      "must_not": [
+        "wavy or curly hair",
+        "heavily layered cut",
+        "shoulder-length hair"
+      ],
+      "description_ko": "층이나 컬 없이 길게 기른 직모 스타일. 결과 윤기가 핵심으로 여겨진다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=238006",
+        "https://www.allurekorea.com/?p=352209"
+      ]
+    },
+    {
+      "term": "일자단발",
+      "aliases": [
+        "일자 단발",
+        "똑단발",
+        "칼단발",
+        "블런트 단발",
+        "blunt bob",
+        "blunt cut bob"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "chin",
+        "layers": "one_length",
+        "ends": "blunt",
+        "texture": "straight",
+        "silhouette": "straight_line",
+        "finish": "sleek"
+      },
+      "visual_en": "Straight chin-length bob cut in one sharp horizontal line all around, no layers, ends heavy and blunt like cut with a knife.",
+      "must_not": [
+        "layered or textured ends",
+        "curled or flipped ends",
+        "rounded inward bob",
+        "hair longer than the jaw"
+      ],
+      "description_ko": "층 없이 턱선에서 일자로 뚝 자른 단발. 칼단발·똑단발이라고도 부르며 라인이 선명하다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=281545",
+        "https://www.allurekorea.com/?p=277276"
+      ]
+    },
+    {
+      "term": "칙본밥",
+      "aliases": [
+        "칙본 밥",
+        "광대 단발",
+        "cheekbone bob",
+        "치크본 보브"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "ear",
+        "layers": "one_length",
+        "ends": "blunt",
+        "texture": "straight",
+        "silhouette": "straight_line"
+      },
+      "visual_en": "Very short blunt bob ending around cheekbone-to-earlobe level, cut in a clean straight line with no layers or curl, leaving the jaw and face fully exposed.",
+      "must_not": [
+        "jaw-length or longer bob",
+        "layered or curled ends",
+        "pixie cut"
+      ],
+      "description_ko": "광대뼈 높이에서 층 없이 깔끔하게 자른 짧은 단발. 칼단발 라인을 더 짧게 올린 형태.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=281545"
+      ]
+    },
+    {
+      "term": "보브컷",
+      "aliases": [
+        "보브",
+        "밥컷",
+        "보브 단발",
+        "bob cut",
+        "bob",
+        "classic bob"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "chin",
+        "layers": "graduated",
+        "back": "stacked",
+        "ends": "inward",
+        "silhouette": "round",
+        "texture": "straight"
+      },
+      "visual_en": "Chin-length bob with a rounded shape: the back is slightly stacked so the hair curves around the head and the ends tuck softly under toward the neck.",
+      "must_not": [
+        "flat one-length blunt line with no roundness",
+        "shaggy choppy layers",
+        "shoulder-length hair"
+      ],
+      "description_ko": "턱선 기장으로 뒷머리에 단차를 주어 둥글게 떨어지는 단발. 일자단발과 혼용되기도 하나 보통 둥근 실루엣을 가리킨다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.vogue.co.kr/?p=133279",
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "슬라이스밥",
+      "aliases": [
+        "슬라이스 밥",
+        "슬라이스드 보브",
+        "sliced bob"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "neck",
+        "layers": "light",
+        "ends": "thinned",
+        "texture": "straight",
+        "finish": "natural_matte"
+      },
+      "visual_en": "Bob between jaw and shoulder with few layers; the ends are lightly sliced and textured so the bottom edge looks soft and airy rather than sharp.",
+      "must_not": [
+        "sharp blunt knife-cut line",
+        "heavy shaggy layers",
+        "curly hair"
+      ],
+      "description_ko": "턱과 어깨 사이 기장에 층은 적게, 끝을 가볍게 질감 처리한 단발.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=281545"
+      ]
+    },
+    {
+      "term": "태슬컷",
+      "aliases": [
+        "태슬 컷",
+        "테슬컷",
+        "테슬 컷",
+        "tassel cut",
+        "tassle cut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "neck",
+        "layers": "light",
+        "ends": "thinned",
+        "texture": "straight",
+        "silhouette": "straight_line"
+      },
+      "visual_en": "Bob ending just below the jaw toward the neck, cut almost in a straight line but with the ends lightly textured so they separate like the strands of a tassel.",
+      "must_not": [
+        "heavy blunt edge with no texture",
+        "rounded inward-curled bob",
+        "shaggy heavily layered cut"
+      ],
+      "description_ko": "턱 아래~목 기장을 일자에 가깝게 자르되 끝을 가볍게 텍스처 처리한 단발. 얼굴선에 약간의 층을 넣기도 한다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=277276",
+        "https://www.harpersbazaar.co.kr/article/1890769"
+      ]
+    },
+    {
+      "term": "레이어드컷",
+      "aliases": [
+        "레이어드 컷",
+        "레이어컷",
+        "층내기",
+        "layered cut",
+        "layered haircut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "layers": "light",
+        "ends": "thinned",
+        "volume": "balanced"
+      },
+      "visual_en": "Hair cut in several lengths so shorter layers sit over longer ones, giving movement and lightness instead of a single heavy length.",
+      "must_not": [
+        "one-length blunt cut",
+        "short-sides-long-back mullet shape"
+      ],
+      "description_ko": "기장을 통일하지 않고 층을 내 가볍고 움직임 있게 만드는 커트. 기장과 무관하게 적용된다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=232497",
+        "https://www.allurekorea.com/?p=235672"
+      ]
+    },
+    {
+      "term": "레이어드단발",
+      "aliases": [
+        "레이어드 단발",
+        "층단발",
+        "layered bob"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "chin",
+        "layers": "heavy",
+        "ends": "thinned",
+        "silhouette": "shaggy"
+      },
+      "visual_en": "Jaw-length bob with many layers so the hair looks light and piece-y, with shorter pieces around the face and an airy outline.",
+      "must_not": [
+        "blunt one-length bob",
+        "shoulder-length or longer hair"
+      ],
+      "description_ko": "짧은 단발 기장에 층을 많이 낸 스타일. 시스루 풀뱅·풀뱅과 자주 조합된다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=281545",
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "레이어드중단발",
+      "aliases": [
+        "레이어드 중단발",
+        "중단발 레이어드",
+        "layered medium hair"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "shoulder",
+        "layers": "heavy",
+        "ends": "thinned",
+        "volume": "ends"
+      },
+      "visual_en": "Shoulder-length hair with plenty of layers through the sides and back, ends light and moving, often with face-framing pieces.",
+      "must_not": [
+        "blunt one-length shoulder cut",
+        "chin-length bob"
+      ],
+      "description_ko": "어깨 기장 중단발에 층을 넣은 스타일. '거지존' 시기의 뻗침을 정리하는 방법으로 자주 추천된다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=235672",
+        "https://www.vogue.co.kr/?p=294961"
+      ]
+    },
+    {
+      "term": "허쉬컷",
+      "aliases": [
+        "허쉬 컷",
+        "허시컷",
+        "hush cut",
+        "hushcut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "shoulder",
+        "layers": "heavy",
+        "ends": "thinned",
+        "bangs": "curtain",
+        "silhouette": "shaggy",
+        "finish": "natural_matte",
+        "volume": "top_front"
+      },
+      "visual_en": "Soft, heavily layered cut with feathery face-framing layers and wispy curtain bangs; the ends are light and flick slightly, giving an airy, lived-in shape around the face.",
+      "must_not": [
+        "one-length blunt cut",
+        "mullet with short sides and long back",
+        "tight curls all over"
+      ],
+      "description_ko": "층을 많이 내 가볍게 뻗치는 실루엣의 커트. 2000년대 샤기컷의 현대판으로 불리며 단발~긴머리까지 다양한 기장에 적용되나 중단발이 가장 흔하다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=94804",
+        "https://fashionjournal.com.au/beauty/korean-hush-cut/",
+        "https://www.vogue.co.kr/?p=294961"
+      ]
+    },
+    {
+      "term": "울프컷",
+      "aliases": [
+        "울프 컷",
+        "울프헤어",
+        "wolf cut",
+        "wolfcut"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "top": "textured_choppy",
+        "layers": "heavy",
+        "back": "longer_nape",
+        "silhouette": "shaggy",
+        "finish": "messy"
+      },
+      "visual_en": "Choppy shaggy cut with short, textured layers on top and around the face while the hair at the back of the neck is left noticeably longer.",
+      "must_not": [
+        "even one-length hair",
+        "neat rounded bob",
+        "long back hair with no top layering"
+      ],
+      "description_ko": "윗머리와 옆은 짧게 층을 내고 뒷머리는 목까지 길게 남긴 커트. 멀렛과 유사한 구조.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=308117",
+        "https://www.vogue.co.kr/2017/08/11/%ea%b9%80%eb%b3%91%ec%a7%80%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94/"
+      ]
+    },
+    {
+      "term": "멀렛컷",
+      "aliases": [
+        "뮬렛컷",
+        "멀릿",
+        "뮬렛",
+        "mullet",
+        "mullet cut"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "layers": "heavy",
+        "back": "longer_nape",
+        "sides": "tapered",
+        "top": "textured_choppy"
+      },
+      "visual_en": "Front and sides cut short while the back is grown long and hangs down past the nape, a strong short-front, long-back contrast.",
+      "must_not": [
+        "even length all around",
+        "long sides covering the jaw"
+      ],
+      "description_ko": "앞·옆머리는 짧고 뒷머리를 길게 늘어뜨린 형태. 중성적이고 개성 있는 분위기.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=291308"
+      ]
+    },
+    {
+      "term": "세미멀렛",
+      "aliases": [
+        "세미 멀렛",
+        "세미뮬렛",
+        "semi mullet"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "layers": "heavy",
+        "back": "longer_nape",
+        "silhouette": "shaggy"
+      },
+      "visual_en": "A softened mullet: the back is only somewhat longer than the front and sides, so at a glance it reads like a layered cut with extra length at the nape.",
+      "must_not": [
+        "extreme short-front long-back mullet",
+        "one-length bob"
+      ],
+      "description_ko": "멀렛보다 앞뒤 기장 차이가 적어 언뜻 레이어드컷처럼 보이는 스타일.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=291308"
+      ]
+    },
+    {
+      "term": "샤기컷",
+      "aliases": [
+        "샤기 컷",
+        "섀기컷",
+        "shaggy cut",
+        "shag cut",
+        "shag"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "layers": "heavy",
+        "ends": "thinned",
+        "silhouette": "shaggy",
+        "finish": "messy",
+        "top": "textured_choppy"
+      },
+      "visual_en": "Heavily thinned, choppy layered hair that looks feathery and tousled all over, with lots of short wispy pieces lifting away from the head.",
+      "must_not": [
+        "smooth one-length hair",
+        "sleek straight hair",
+        "neat rounded bob"
+      ],
+      "description_ko": "숱을 많이 쳐서 가볍게 띄운 층 많은 커트. 2000년대 초 유행했고 허쉬컷의 원형으로 언급된다.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=94804",
+        "https://www.vogue.co.kr/?p=294961"
+      ]
+    },
+    {
+      "term": "슬릭컷",
+      "aliases": [
+        "슬릭 컷",
+        "slick cut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "texture": "straight",
+        "layers": "heavy",
+        "finish": "sleek",
+        "silhouette": "straight_line"
+      },
+      "visual_en": "Straight hair with many layers but no curl at all; the layers fall flat and smooth so the hair hangs in sleek, straight lines.",
+      "must_not": [
+        "curled or waved ends",
+        "puffy voluminous shape"
+      ],
+      "description_ko": "층을 많이 낸 레이어드컷에 컬을 넣지 않고 곧게 떨어뜨린 스타일. 일부 미용실은 층 없이 일자로 떨어지는 컷으로 설명하기도 한다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=232497",
+        "https://m.cafe.daum.net/33poison/HrR9/4170"
+      ]
+    },
+    {
+      "term": "숏컷",
+      "aliases": [
+        "숏 컷",
+        "여자 숏컷",
+        "쇼트컷",
+        "short cut",
+        "short haircut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "tapered",
+        "back": "tapered"
+      },
+      "visual_en": "Short women's haircut ending around or above the ears, with the back and sides kept short and close to the head.",
+      "must_not": [
+        "chin-length bob",
+        "buzzed scalp",
+        "long hair tied up"
+      ],
+      "description_ko": "귀 주변 또는 그보다 짧은 여성 짧은 머리의 총칭. 픽시컷·숏보브 등을 넓게 포함한다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=291308",
+        "https://allurekorea.com/2026/09/04/%eb%8b%a8%eb%b0%9c%ec%9d%b4-%ec%a7%80%ea%b2%a8%ec%9b%8c%ec%a1%8c%eb%8b%a4%eb%a9%b4-%ec%88%8f%ec%bb%b7%ea%b3%bc-%eb%8b%a8%eb%b0%9c-%ec%82%ac%ec%9d%b4-%ec%9d%b4-%ed%97%a4%ec%96%b4%ea%b0%80-%eb%9c%b9/"
+      ]
+    },
+    {
+      "term": "픽시컷",
+      "aliases": [
+        "픽시 컷",
+        "픽시",
+        "pixie cut",
+        "pixie"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "sides": "tapered",
+        "back": "tapered",
+        "bangs": "side_swept",
+        "top": "textured_choppy"
+      },
+      "visual_en": "Very short cropped haircut with ears and neck exposed; sides and back are short and neat while slightly longer textured top hair falls forward over the forehead.",
+      "must_not": [
+        "chin-length bob",
+        "hair covering the ears",
+        "buzzed to the scalp"
+      ],
+      "description_ko": "옆·뒷머리를 짧게 자르고 윗머리가 이마 쪽으로 흘러내리는 아주 짧은 커트. 귀와 목선이 드러난다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=291308",
+        "https://allurekorea.com/2026/09/04/%eb%8b%a8%eb%b0%9c%ec%9d%b4-%ec%a7%80%ea%b2%a8%ec%9b%8c%ec%a1%8c%eb%8b%a4%eb%a9%b4-%ec%88%8f%ec%bb%b7%ea%b3%bc-%eb%8b%a8%eb%b0%9c-%ec%82%ac%ec%9d%b4-%ec%9d%b4-%ed%97%a4%ec%96%b4%ea%b0%80-%eb%9c%b9/"
+      ]
+    },
+    {
+      "term": "소프트픽시컷",
+      "aliases": [
+        "소프트 픽시",
+        "소프트 픽시컷",
+        "페미닌 픽시",
+        "soft pixie",
+        "feminine pixie"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "over_ears",
+        "bangs": "curtain",
+        "layers": "light",
+        "back": "tapered"
+      },
+      "visual_en": "A longer, gentler pixie: short overall but with more length around the face and over the ears, soft light layers and curtain or fringe bangs.",
+      "must_not": [
+        "very cropped boyish pixie",
+        "jaw-length bob"
+      ],
+      "description_ko": "픽시컷보다 기장을 남겨 옆머리·앞머리로 얼굴선을 부드럽게 감싸는 짧은 커트.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=291308",
+        "https://www.allurekorea.com/2024/12/16/%EC%BF%A8-%EA%B1%B8%EB%93%A4%EC%9D%80-%EC%86%8C%ED%94%84%ED%8A%B8-%ED%94%BD%EC%8B%9C-%EC%BB%B7%EC%9D%84-%ED%95%9C%EB%8B%A4/",
+        "https://allurekorea.com/2026/09/04/%eb%8b%a8%eb%b0%9c%ec%9d%b4-%ec%a7%80%ea%b2%a8%ec%9b%8c%ec%a1%8c%eb%8b%a4%eb%a9%b4-%ec%88%8f%ec%bb%b7%ea%b3%bc-%eb%8b%a8%eb%b0%9c-%ec%82%ac%ec%9d%b4-%ec%9d%b4-%ed%97%a4%ec%96%b4%ea%b0%80-%eb%9c%b9/"
+      ]
+    },
+    {
+      "term": "빅시컷",
+      "aliases": [
+        "빅시",
+        "빅시 컷",
+        "bixie",
+        "bixie cut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "ear",
+        "sides": "over_ears",
+        "back": "tapered",
+        "layers": "light",
+        "volume": "crown"
+      },
+      "visual_en": "A cross between a pixie and a bob: neat short nape, with side hair a little longer and falling along the face, rounded volume on top.",
+      "must_not": [
+        "very short pixie with ears fully exposed",
+        "chin-length one-length bob"
+      ],
+      "description_ko": "픽시와 보브를 합친 형태. 귀·목 주변은 정리하고 옆머리는 얼굴선을 따라 흐르게 한다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://allurekorea.com/2026/09/04/%eb%8b%a8%eb%b0%9c%ec%9d%b4-%ec%a7%80%ea%b2%a8%ec%9b%8c%ec%a1%8c%eb%8b%a4%eb%a9%b4-%ec%88%8f%ec%bb%b7%ea%b3%bc-%eb%8b%a8%eb%b0%9c-%ec%82%ac%ec%9d%b4-%ec%9d%b4-%ed%97%a4%ec%96%b4%ea%b0%80-%eb%9c%b9/"
+      ]
+    },
+    {
+      "term": "숏보브",
+      "aliases": [
+        "숏 보브",
+        "숏단발",
+        "short bob"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "ear",
+        "bangs": "full_straight",
+        "sides": "over_ears",
+        "silhouette": "round"
+      },
+      "visual_en": "Short bob ending around the ears, with bangs down and the side hair covering the ears in a rounded, neat shape.",
+      "must_not": [
+        "pixie cut with ears exposed",
+        "shoulder-length hair"
+      ],
+      "description_ko": "단발보다 짧은 귀 기장 보브. 앞머리를 내리고 옆머리로 귀를 덮는다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=291308",
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "히메컷",
+      "aliases": [
+        "히메 컷",
+        "공주컷",
+        "hime cut",
+        "himecut",
+        "princess cut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "chest",
+        "texture": "sleek_straight",
+        "bangs": "full_straight",
+        "layers": "face_framing",
+        "ends": "blunt",
+        "silhouette": "straight_line"
+      },
+      "visual_en": "Long straight hair with blunt full bangs, plus side sections cut sharply at mouth-to-chin level, creating a clear step between the short cheek-length side panels and the long back hair.",
+      "must_not": [
+        "gradual feathered layers",
+        "curled hair",
+        "short hair overall"
+      ],
+      "description_ko": "옆머리를 입꼬리~턱 길이로 자르고 뒷머리와 의도적으로 길이 차이를 둬 계단처럼 끊어 보이게 한 커트. 일본 애니메이션 공주 캐릭터에서 유래.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/2022/10/28/%ed%9e%88%eb%a9%94-%ec%bb%b7-%eb%82%98%eb%8f%84-%ed%95%b4%eb%b3%bc%ea%b9%8c/",
+        "https://www.allurekorea.com/?p=284360"
+      ]
+    },
+    {
+      "term": "버터플라이컷",
+      "aliases": [
+        "버터플라이 컷",
+        "나비컷",
+        "butterfly cut",
+        "butterfly haircut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "chest",
+        "layers": "face_framing",
+        "volume": "top_front",
+        "bangs": "curtain",
+        "ends": "thinned"
+      },
+      "visual_en": "Long hair with short, voluminous layers around the face and crown that flare out like wings, over longer layers below so the overall length is kept.",
+      "must_not": [
+        "one-length long hair",
+        "mullet with short sides",
+        "short bob"
+      ],
+      "description_ko": "윗부분과 얼굴 주변에 짧은 레이어로 볼륨을 주고 아래는 긴 레이어로 기장을 유지하는 커트.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.lorealparisusa.com/beauty-magazine/hair-style/hairstyle-trends/butterfly-haircut",
+        "https://www.elle.co.kr/article/1893202"
+      ]
+    },
+    {
+      "term": "하트레이어컷",
+      "aliases": [
+        "하트 레이어",
+        "하트 레이어스 커트",
+        "러브 레이어",
+        "heart layers",
+        "love layers"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "layers": "face_framing",
+        "volume": "top_front",
+        "parting": "center",
+        "ends": "inward"
+      },
+      "visual_en": "Face-framing layers that start below the chin and curve inward in C shapes, fuller at the top and slimmer toward the bottom so the outline resembles a heart; center part.",
+      "must_not": [
+        "flat one-length hair",
+        "outward flipped ends",
+        "short pixie"
+      ],
+      "description_ko": "턱 아래에서 시작하는 안쪽 C자 레이어로 위는 풍성하고 아래는 슬림한 하트 실루엣을 만드는 커트.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.vogue.co.kr/2026/07/18/%ec%a7%80%ec%a7%80-%ed%95%98%eb%94%94%eb%93%9c%ea%b0%80-%ec%a6%9d%eb%aa%85%ed%95%9c-%ea%b0%b8%eb%a6%84%ed%95%9c-%ec%96%bc%ea%b5%b4%ec%9d%98-%eb%b9%84%ea%b2%b0-%ed%95%98%ed%8a%b8-%eb%a0%88%ec%9d%b4/"
+      ]
+    },
+    {
+      "term": "웬디컷",
+      "aliases": [
+        "웬디 컷",
+        "wendy cut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "shoulder",
+        "bangs": "see_through",
+        "layers": "face_framing",
+        "texture": "c_curl",
+        "ends": "inward",
+        "silhouette": "round"
+      },
+      "visual_en": "Medium-length hair with see-through bangs that blend into rounded face-framing layers, ends curled under in a soft C shape for a neat, fresh look.",
+      "must_not": [
+        "heavy blunt bangs",
+        "outward flipped ends",
+        "loose waves all over"
+      ],
+      "description_ko": "시스루뱅부터 층을 내 둥글게 이어지고 C컬을 더한 중단발 스타일(레드벨벳 웬디의 시그니처).",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.vogue.co.kr/?p=294961"
+      ]
+    },
+    {
+      "term": "팅커벨컷",
+      "aliases": [
+        "팅커벨 커트",
+        "tinkerbell cut"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "ear",
+        "volume": "crown",
+        "ends": "thinned",
+        "silhouette": "round"
+      },
+      "visual_en": "Short bob with long bangs and a full crown, ends cut feathery and fluffy so the shape looks light and rounded.",
+      "must_not": [
+        "sharp blunt bob",
+        "long hair"
+      ],
+      "description_ko": "긴 앞머리, 정수리 볼륨, 깃털처럼 가벼운 끝 처리를 한 짧은 단발. 출처가 적어 정의 신뢰도가 낮다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "리프컷",
+      "aliases": [
+        "리프 컷",
+        "leaf cut"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "bangs": "curtain",
+        "parting": "center",
+        "sides": "over_ears",
+        "texture": "c_curl",
+        "curl_zone": "top_front"
+      },
+      "visual_en": "Medium-short hair with the bangs parted at the center and curving outward to both sides like the edges of a leaf, soft C-curled front over covered ears.",
+      "must_not": [
+        "straight blunt bangs",
+        "slicked-back hair",
+        "shaved sides"
+      ],
+      "description_ko": "가운데 가르마의 앞머리가 잎사귀처럼 양옆으로 휘어 흐르는 스타일. 주로 남성 헤어 용어로 쓰이며 여성 사용 빈도는 낮다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=235486"
+      ]
+    },
+    {
+      "term": "바가지머리",
+      "aliases": [
+        "바가지 머리",
+        "버섯머리",
+        "보울컷",
+        "bowl cut",
+        "mushroom cut"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "length": "ear",
+        "bangs": "full_straight",
+        "layers": "one_length",
+        "silhouette": "round",
+        "sides": "over_ears"
+      },
+      "visual_en": "Rounded helmet-like cut: straight full bangs and the side and back hair cut to roughly the same level all around, as if trimmed around a bowl.",
+      "must_not": [
+        "side-swept bangs",
+        "layered shaggy hair"
+      ],
+      "description_ko": "앞머리와 옆·뒷머리를 거의 같은 높이로 둥글게 잘라 바가지를 씌운 듯한 형태.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://namu.wiki/w/%EB%B0%94%EA%B0%80%EC%A7%80%EB%A8%B8%EB%A6%AC"
+      ]
+    },
+    {
+      "term": "거지존",
+      "aliases": [
+        "거지 존",
+        "거지존 머리",
+        "awkward length",
+        "awkward stage hair"
+      ],
+      "gender": "female",
+      "category": "cut",
+      "attrs": {
+        "length": "shoulder",
+        "ends": "outward",
+        "layers": "one_length"
+      },
+      "visual_en": "In-between length where the hair hits the shoulders and the ends get pushed and flip outward unevenly; the awkward grow-out stage between a bob and long hair.",
+      "must_not": [
+        "neat chin bob",
+        "long chest-length hair",
+        "intentionally styled outward perm"
+      ],
+      "description_ko": "단발에서 긴 머리로 기르는 중간, 어깨선에 닿아 뻗치는 어중간한 기장을 일컫는 속어. 스타일이 아니라 길이 구간이며 레이어드·C컬로 '탈출'한다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/?p=294961",
+        "https://www.wkorea.com/?p=347098",
+        "https://www.allurekorea.com/?p=235672"
+      ]
+    },
+    {
+      "term": "C컬펌",
+      "aliases": [
+        "C컬 펌",
+        "씨컬펌",
+        "C컬",
+        "c curl perm",
+        "c-curl perm",
+        "씨컬"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "c_curl",
+        "curl_size": "large",
+        "curl_zone": "ends",
+        "ends": "inward",
+        "volume": "ends"
+      },
+      "visual_en": "Mostly straight hair whose ends curve under once in a soft C shape, framing the jaw; the rest of the hair stays smooth.",
+      "must_not": [
+        "curls or waves all over the head",
+        "ends flipping outward",
+        "S-shaped waves from mid-length"
+      ],
+      "description_ko": "모발 끝만 한 번 안쪽으로 말아 넣는 펌. 다수 출처가 안쪽 말림으로 설명하나 일부는 바깥(아웃컬) C컬도 포함한다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.frif.kr/hairstyle/?idx=172262940&bmode=view",
+        "https://tilnote.io/pages/69c0146aedaa748507651d11",
+        "https://www.wkorea.com/?p=401689"
+      ]
+    },
+    {
+      "term": "S컬펌",
+      "aliases": [
+        "S컬 펌",
+        "에스컬펌",
+        "S컬",
+        "s curl perm",
+        "s-curl perm",
+        "에스컬"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "volume": "ends"
+      },
+      "visual_en": "Soft S-shaped waves running from mid-length to the ends, giving fuller, bouncier movement than a simple end curl; roots stay smooth.",
+      "must_not": [
+        "only the very ends curled under",
+        "tight spiral curls from the roots",
+        "straight hair"
+      ],
+      "description_ko": "모발 중간부터 끝까지 S자 웨이브를 넣는 펌. C컬보다 움직임과 볼륨이 크다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.frif.kr/hairstyle/?idx=172262940&bmode=view",
+        "https://tilnote.io/pages/69c0146aedaa748507651d11",
+        "https://www.yugacrew.com/yugawiki/S%EC%BB%AC%ED%8E%8C"
+      ]
+    },
+    {
+      "term": "빌드펌",
+      "aliases": [
+        "빌드 펌",
+        "빌드업펌",
+        "CS컬 믹스펌",
+        "CS믹스펌",
+        "build perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "shoulder",
+        "texture": "s_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends",
+        "layers": "heavy",
+        "ends": "outward",
+        "volume": "ends"
+      },
+      "visual_en": "Layered medium-to-long hair with large loose curls built into each layer from mid-length down; the curls swing away from the face so the ends flip outward, calm and flat near the roots.",
+      "must_not": [
+        "ends tucked inward like a C-curl perm",
+        "tight curls from the roots",
+        "one-length straight hair"
+      ],
+      "description_ko": "레이어드컷의 층마다 굵은 컬을 쌓아 중간~끝 볼륨을 만드는 펌. 중단발 기준. 출처마다 'CS 믹스(중간 S, 끝 C)'·'얼굴 옆 중간머리 강조' 등 설명이 달라 컬 방향(바깥 뻗침)은 업계 통념에 따른 것이다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.chop.kr/17/?bmode=view&idx=8113384",
+        "https://tilnote.io/pages/69c0146aedaa748507651d11",
+        "https://www.frif.kr/hairstyle/?idx=172262940&bmode=view"
+      ]
+    },
+    {
+      "term": "엘리자벳펌",
+      "aliases": [
+        "엘리자베스펌",
+        "엘리자벳 펌",
+        "엘리자베스 펌",
+        "엘리자벳",
+        "elizabeth perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "chest",
+        "texture": "loose_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends",
+        "ends": "inward",
+        "layers": "light",
+        "volume": "ends",
+        "finish": "glossy"
+      },
+      "visual_en": "Long hair below the shoulders with big, glossy S-curls (about two full turns) from mid-length down, curling inward toward the face for an elegant, princess-like look.",
+      "must_not": [
+        "ends flipping outward",
+        "small tight curls",
+        "short bob"
+      ],
+      "description_ko": "어깨 아래 긴 머리에 굵은 S컬을 두 번 정도 넣어 안쪽으로 말리게 하는 펌. 빌드펌보다 기장이 길고 컬이 많다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=317968",
+        "https://www.chop.kr/17/?bmode=view&idx=8113384",
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "그레이스펌",
+      "aliases": [
+        "그레이스 펌",
+        "grace perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "finish": "glossy",
+        "volume": "ends"
+      },
+      "visual_en": "Bouncy, springy curls similar to jelly curls but finished calmly so they fall evenly and smoothly, elastic yet soft waves.",
+      "must_not": [
+        "frizzy tight curls all over",
+        "straight hair"
+      ],
+      "description_ko": "젤리펌처럼 탄력 있는 컬이지만 차분하고 고르게 떨어지는 펌. 층을 많이 내면 캐주얼, 일자에 가까우면 클래식한 분위기.",
+      "popularity": "medium",
+      "confidence": "low",
+      "sources": [
+        "https://www.allurekorea.com/?p=317968",
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "히피펌",
+      "aliases": [
+        "히피 펌",
+        "뽀글머리",
+        "hippie perm",
+        "hippy perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "tight_curl",
+        "curl_size": "small",
+        "curl_zone": "all_over",
+        "volume": "overall_big",
+        "finish": "messy",
+        "silhouette": "round"
+      },
+      "visual_en": "Small, tight S-curls repeated from near the roots to the ends all over the head, creating a big, full, slightly frizzy and tousled shape.",
+      "must_not": [
+        "loose large waves",
+        "curls only at the ends",
+        "sleek straight hair"
+      ],
+      "description_ko": "정수리 가까이부터 모발 전체에 촘촘한 컬을 넣어 풍성하고 헝클어진 느낌을 주는 펌.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1911025",
+        "https://www.wkorea.com/?p=453853",
+        "https://www.elle.co.kr/article/17838"
+      ]
+    },
+    {
+      "term": "물결펌",
+      "aliases": [
+        "물결 펌",
+        "웨이브펌",
+        "물결웨이브",
+        "wave perm",
+        "water wave perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "finish": "glossy"
+      },
+      "visual_en": "Even, regular S-shaped waves repeating at steady intervals like ripples on water; rounded, clearly visible curves rather than tight curls.",
+      "must_not": [
+        "tight frizzy curls",
+        "random messy texture",
+        "curls only at the ends"
+      ],
+      "description_ko": "일정한 간격으로 반복되는 고른 S웨이브 펌. 레인펌보다 굴곡이 둥글고 뚜렷하다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1911025",
+        "https://www.wkorea.com/?p=453853",
+        "https://www.allurekorea.com/?p=176583"
+      ]
+    },
+    {
+      "term": "바디펌",
+      "aliases": [
+        "바디 펌",
+        "body perm",
+        "body wave perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "body_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends",
+        "volume": "balanced"
+      },
+      "visual_en": "Large, soft, voluminous waves flowing naturally through the lengths, adding body without obvious defined curls.",
+      "must_not": [
+        "tight small curls",
+        "sleek poker-straight hair"
+      ],
+      "description_ko": "굵은 웨이브가 자연스럽게 흐르며 볼륨을 주는 펌. 일부 출처는 끝이 바깥으로 뻗는 C컬형으로 설명해 정의가 엇갈린다.",
+      "popularity": "medium",
+      "confidence": "low",
+      "sources": [
+        "https://soomgo.com/questions/3296",
+        "https://blog.enter6.co.kr/895"
+      ]
+    },
+    {
+      "term": "셋팅펌",
+      "aliases": [
+        "세팅펌",
+        "셋팅 펌",
+        "세팅 펌",
+        "setting perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends",
+        "volume": "ends",
+        "finish": "glossy"
+      },
+      "visual_en": "Large, springy S-curls that look like hot-roller curls, starting around mid-length and becoming fuller toward the ends; roots stay smooth. Usually on long layered hair.",
+      "must_not": [
+        "tight curls from the roots",
+        "only the ends curled once",
+        "straight hair"
+      ],
+      "description_ko": "가열한 롯드로 만드는 열펌. 중간부터 굵고 탄력 있는 S컬이 나오며 긴 머리·층 있는 머리에 적합하다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://soomgo.com/questions/3296",
+        "https://blog.enter6.co.kr/895",
+        "https://bestofkorea.com/korean-perms-8-great-looks/"
+      ]
+    },
+    {
+      "term": "디지털펌",
+      "aliases": [
+        "디지털 펌",
+        "digital perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends"
+      },
+      "visual_en": "Defined, bouncy S-curls that look clear when the hair is dry, typically on medium or bob-length hair, from mid-length to the ends.",
+      "must_not": [
+        "straight hair",
+        "frizzy tight curls from the roots"
+      ],
+      "description_ko": "기기로 열을 가하는 열펌 시술 방식. 셋팅펌보다 낮은 온도로 단발·중간 기장의 섬세한 컬에 쓰인다. 모양보다 시술법 명칭이다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://soomgo.com/questions/3296",
+        "https://blog.enter6.co.kr/895"
+      ]
+    },
+    {
+      "term": "내추럴웨이브펌",
+      "aliases": [
+        "내추럴 웨이브",
+        "내츄럴 웨이브",
+        "내추럴펌",
+        "내츄럴웨이브펌",
+        "natural wave perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "texture_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "finish": "natural_matte"
+      },
+      "visual_en": "Subtle, natural-looking waves that follow the hair's own flow rather than defined S-curls, slightly undone and soft.",
+      "must_not": [
+        "defined bouncy ringlets",
+        "sleek straight hair",
+        "tight curls all over"
+      ],
+      "description_ko": "결의 흐름을 따라 자연스러운 굴곡을 넣는 펌. 미세한 웨이브로 설명하는 곳과 굵은 자연 컬로 설명하는 곳이 있어 정의가 엇갈린다.",
+      "popularity": "medium",
+      "confidence": "low",
+      "sources": [
+        "https://www.wkorea.com/?p=401689",
+        "https://soomgo.com/questions/3296"
+      ]
+    },
+    {
+      "term": "볼륨매직",
+      "aliases": [
+        "볼륨 매직",
+        "볼매",
+        "볼륨매직펌",
+        "volume magic"
+      ],
+      "gender": "female",
+      "category": "treatment",
+      "attrs": {
+        "texture": "straight",
+        "top": "lifted_root",
+        "ends": "inward",
+        "finish": "glossy"
+      },
+      "visual_en": "Smooth, shiny straightened hair with a little lift at the roots and the ends turning gently under in a soft J shape.",
+      "must_not": [
+        "perfectly flat poker-straight hair",
+        "waves or curls",
+        "ends flipping outward"
+      ],
+      "description_ko": "매직으로 곱슬을 펴되 뿌리 볼륨을 살리고 끝을 안쪽 J컬로 마무리하는 열펌.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://m.cafe.daum.net/33poison/HrR9/4170",
+        "https://namu.wiki/w/%ED%8E%8C"
+      ]
+    },
+    {
+      "term": "매직스트레이트",
+      "aliases": [
+        "매직",
+        "매직펌",
+        "매직 스트레이트",
+        "스트레이트펌",
+        "magic straight",
+        "straight perm"
+      ],
+      "gender": "female",
+      "category": "treatment",
+      "attrs": {
+        "texture": "sleek_straight",
+        "top": "flat",
+        "finish": "sleek",
+        "ends": "blunt"
+      },
+      "visual_en": "Very sleek, poker-straight hair lying flat from root to tip with a glassy shine and no bend at the ends.",
+      "must_not": [
+        "any curl or wave",
+        "root volume",
+        "ends curled under"
+      ],
+      "description_ko": "곱슬을 고데기로 완전히 펴 차분한 직모로 만드는 열펌. 뿌리가 눌리고 끝에 컬이 없다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://m.cafe.daum.net/33poison/HrR9/4170",
+        "https://namu.wiki/w/%ED%8E%8C",
+        "https://bestofkorea.com/korean-perms-8-great-looks/"
+      ]
+    },
+    {
+      "term": "매직셋팅",
+      "aliases": [
+        "매직 셋팅",
+        "매직세팅",
+        "매직셋팅펌",
+        "볼륨매직셋팅",
+        "magic setting"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "top": "flat",
+        "texture": "loose_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends",
+        "finish": "glossy"
+      },
+      "visual_en": "Straight, smooth roots and upper hair with large waves set into the lower half and ends, for frizz-prone hair.",
+      "must_not": [
+        "curls starting at the roots",
+        "fully straight hair"
+      ],
+      "description_ko": "뿌리는 매직으로 펴고 중간~끝은 롯드로 셋팅해 웨이브를 넣는 시술. 뿌리를 볼륨매직으로 하면 볼륨매직셋팅이라 부른다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://m.cafe.daum.net/33poison/HrR9/4170"
+      ]
+    },
+    {
+      "term": "슬릭펌",
+      "aliases": [
+        "슬릭 펌",
+        "slick perm"
+      ],
+      "gender": "female",
+      "category": "treatment",
+      "attrs": {
+        "texture": "sleek_straight",
+        "finish": "glossy",
+        "silhouette": "straight_line"
+      },
+      "visual_en": "Hair made extra smooth and shiny so it falls in straight, sleek lines, usually paired with a layered slick cut.",
+      "must_not": [
+        "curls or waves",
+        "frizzy texture"
+      ],
+      "description_ko": "슬릭컷 후 매직을 더해 윤기 있고 곧게 떨어지게 하는 시술.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://m.cafe.daum.net/33poison/HrR9/4170"
+      ]
+    },
+    {
+      "term": "다운펌",
+      "aliases": [
+        "다운 펌",
+        "옆머리다운펌",
+        "down perm"
+      ],
+      "gender": "unisex",
+      "category": "treatment",
+      "attrs": {
+        "sides": "flat_down",
+        "volume": "minimal"
+      },
+      "visual_en": "Side and back hair pressed smooth and flat against the head so it no longer puffs or sticks out, while keeping its length.",
+      "must_not": [
+        "shaved or clipped sides",
+        "puffy voluminous sides"
+      ],
+      "description_ko": "뜨거나 뻗치는 옆·뒷머리를 두피에 붙게 가라앉히는 펌. 남성 시술로 흔하지만 여성 숏컷·픽시에도 쓴다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://m.cafe.daum.net/33poison/HrR9/4169",
+        "https://namu.wiki/w/%ED%8E%8C",
+        "https://www.allurekorea.com/?p=291308"
+      ]
+    },
+    {
+      "term": "뿌리펌",
+      "aliases": [
+        "뿌리 펌",
+        "뿌리볼륨펌",
+        "뿌리 볼륨펌",
+        "root perm",
+        "root volume perm"
+      ],
+      "gender": "unisex",
+      "category": "treatment",
+      "attrs": {
+        "top": "lifted_root",
+        "volume": "crown"
+      },
+      "visual_en": "Hair lifted at the roots on top and at the crown so it no longer lies flat against the scalp; the lengths below are unchanged.",
+      "must_not": [
+        "curls along the lengths",
+        "flat top"
+      ],
+      "description_ko": "모근에만 볼륨을 주어 정수리가 꺼지지 않게 하는 펌. 길이 부분 컬은 변하지 않는다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://miso.kr/blog/thread/%EC%84%9C%EC%82%B0/%EB%BF%8C%EB%A6%AC%ED%8E%8C-%ED%9B%84%EA%B8%B0",
+        "https://m.view.nate.com/beauty/view/160219/"
+      ]
+    },
+    {
+      "term": "앞머리펌",
+      "aliases": [
+        "앞머리 펌",
+        "뱅펌",
+        "bang perm",
+        "fringe perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "c_curl",
+        "curl_zone": "bang_ends",
+        "curl_size": "large"
+      },
+      "visual_en": "Only the bangs are permed so they curve softly inward in a gentle C shape over the forehead instead of falling flat or splitting.",
+      "must_not": [
+        "curls on the rest of the hair",
+        "frizzy curly bangs"
+      ],
+      "description_ko": "앞머리에만 C컬을 넣어 갈라짐 없이 동그랗게 떨어지게 하는 부분 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.vogue.co.kr/2017/07/19/%EA%B3%A8%EC%B9%98-%EC%95%84%ED%94%88-%EC%95%9E%EB%A8%B8%EB%A6%AC-%EC%BB%A4%ED%8A%B8-%EB%8C%80%EC%8B%A0-%ED%8E%8C"
+      ]
+    },
+    {
+      "term": "베이비펌",
+      "aliases": [
+        "베이비 펌",
+        "baby perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "tight_curl",
+        "curl_size": "small",
+        "curl_zone": "all_over",
+        "volume": "overall_big",
+        "silhouette": "round"
+      },
+      "visual_en": "Small, bouncy, well-defined curls from the roots throughout, poodle-like and round, usually on short or chin-length hair.",
+      "must_not": [
+        "loose large waves",
+        "curls only at the ends",
+        "straight hair"
+      ],
+      "description_ko": "뿌리부터 작고 탱글한 컬을 촘촘히 넣는 펌. 히피펌과 비슷하나 컬이 더 또렷하다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1873289",
+        "https://bestofkorea.com/korean-perms-8-great-looks/",
+        "https://namu.wiki/w/%ED%8E%8C"
+      ]
+    },
+    {
+      "term": "젤리펌",
+      "aliases": [
+        "젤리 펌",
+        "젤리컬",
+        "jelly perm",
+        "jelly curl"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "tight_curl",
+        "curl_size": "medium",
+        "curl_zone": "all_over",
+        "finish": "glossy",
+        "volume": "overall_big"
+      },
+      "visual_en": "Plump, springy, rounded curls with a glossy, bouncy jelly-like look; each curl is defined and separate. Often on a bob.",
+      "must_not": [
+        "loose flat waves",
+        "straight hair",
+        "frizzy undefined texture"
+      ],
+      "description_ko": "탱글탱글하고 통통 튀는 컬의 펌. 히피펌보다 컬이 굵다는 출처와 짧은 단발에 작게 감는다는 출처가 있어 컬 크기는 엇갈린다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.vogue.co.kr/2026/02/02/2026%eb%85%84%ec%9d%80-%eb%a1%9c%ec%a0%9c%ea%b0%80-%ec%84%a0%ed%83%9d%ed%95%9c-%ec%82%ac%eb%9e%91%ec%8a%a4%eb%9f%ac%ec%9a%b4-%eb%89%b4-%ec%a0%a4%eb%a6%ac-%ed%8e%8c/",
+        "https://www.harpersbazaar.co.kr/article/1911025",
+        "https://www.vogue.co.kr/2024/09/26/%ec%9d%b4%eb%b2%88-%ea%b0%80%ec%9d%84-%ed%8e%8c-%ed%8a%b8%eb%a0%8c%eb%93%9c%eb%8a%94-%eb%bd%80%ea%b8%80%eb%bd%80%ea%b8%80-%ec%a0%a4%eb%a6%ac-%ec%bb%ac/"
+      ]
+    },
+    {
+      "term": "샌드펌",
+      "aliases": [
+        "샌드 펌",
+        "sand perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "loose_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends",
+        "layers": "heavy",
+        "finish": "messy"
+      },
+      "visual_en": "Loose, wide-spaced S-waves on layered long hair, scattered in different directions for a casual, beachy, undone look, starting from the face-side hair.",
+      "must_not": [
+        "neat uniform ringlets",
+        "straight hair",
+        "short bob"
+      ],
+      "description_ko": "레이어드 긴 머리에 넓은 간격의 굵은 S웨이브를 여러 방향으로 흩어 넣는 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1911025",
+        "https://www.allurekorea.com/?p=339722"
+      ]
+    },
+    {
+      "term": "허쉬펌",
+      "aliases": [
+        "허쉬 펌",
+        "hush perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "layers": "heavy",
+        "texture": "c_curl",
+        "curl_zone": "ends",
+        "ends": "thinned",
+        "silhouette": "shaggy"
+      },
+      "visual_en": "A hush cut with C-curls and light S-curls added to define each layer, ends light and slightly separated, giving shadowed, airy layers around the face.",
+      "must_not": [
+        "one-length hair",
+        "uniform tight curls"
+      ],
+      "description_ko": "허쉬컷의 층마다 C컬·가벼운 S컬을 넣어 층을 살리는 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1911025",
+        "https://www.allurekorea.com/?p=339722"
+      ]
+    },
+    {
+      "term": "레인펌",
+      "aliases": [
+        "레인 펌",
+        "rain perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "volume": "minimal",
+        "silhouette": "straight_line"
+      },
+      "visual_en": "S-curls that start near the crown and drop vertically like rain, so the hair stays narrow rather than puffing out and the full length remains visible.",
+      "must_not": [
+        "big round puffy volume",
+        "tight frizzy curls"
+      ],
+      "description_ko": "정수리 근처부터 S컬이 세로로 떨어져 옆으로 부풀지 않는 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1911025"
+      ]
+    },
+    {
+      "term": "글램펌",
+      "aliases": [
+        "글램 펌",
+        "glam perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "loose_wave",
+        "curl_size": "large",
+        "curl_zone": "all_over",
+        "volume": "overall_big",
+        "finish": "glossy"
+      },
+      "visual_en": "Large, rounded, glossy curls from the roots to the ends, giving big voluminous, elegant movement.",
+      "must_not": [
+        "small tight curls",
+        "flat straight roots with curled ends only"
+      ],
+      "description_ko": "뿌리부터 끝까지 크고 둥근 컬로 풍성하고 우아한 볼륨을 주는 펌. 웨이브를 바깥 방향으로 넣는다는 설명도 있다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1911025",
+        "https://blog.enter6.co.kr/895"
+      ]
+    },
+    {
+      "term": "발롱펌",
+      "aliases": [
+        "발롱 펌",
+        "ballon perm",
+        "balloon perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "loose_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends",
+        "volume": "balanced"
+      },
+      "visual_en": "Thick, soft waves fuller and more natural than a wave perm, giving a rounded, feminine volume.",
+      "must_not": [
+        "tight small curls",
+        "straight hair"
+      ],
+      "description_ko": "물결펌을 발전시킨 굵은 웨이브 펌. 물결펌보다 자연스럽고 풍성하다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://blog.enter6.co.kr/895"
+      ]
+    },
+    {
+      "term": "여신펌",
+      "aliases": [
+        "여신 펌",
+        "goddess perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "chest",
+        "bangs": "none_exposed",
+        "layers": "light",
+        "texture": "s_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends"
+      },
+      "visual_en": "Long layered hair with no bangs and soft, flowing large S-waves through the lengths for a feminine look.",
+      "must_not": [
+        "short hair",
+        "heavy bangs",
+        "tight curls"
+      ],
+      "description_ko": "앞머리 없는 긴 머리에 층을 내고 S·SS컬을 넣어 부드럽게 흐르게 하는 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://m.cafe.daum.net/33poison/HrR9/4170"
+      ]
+    },
+    {
+      "term": "에어펌",
+      "aliases": [
+        "에어 펌",
+        "air perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "chest",
+        "texture": "s_wave",
+        "curl_size": "large",
+        "curl_zone": "all_over",
+        "top": "lifted_root",
+        "volume": "overall_big"
+      },
+      "visual_en": "Long hair with thick S-curls set from the roots, so the whole head looks light, airy and very voluminous while the waves frame the cheeks and jaw.",
+      "must_not": [
+        "flat roots",
+        "small tight curls",
+        "short hair"
+      ],
+      "description_ko": "뿌리부터 굵은 S컬을 넣어 웨이브펌 중 가장 볼륨이 큰 긴 머리 펌. 출처가 적다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://www.insight.co.kr/news/246667"
+      ]
+    },
+    {
+      "term": "포워드펌",
+      "aliases": [
+        "포워드 펌",
+        "forward perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "c_curl",
+        "curl_zone": "mid_to_ends",
+        "layers": "face_framing",
+        "ends": "inward",
+        "volume": "top_front"
+      },
+      "visual_en": "Face-framing hair curved forward toward the face so it softly covers the cheekbones and flows to the chin, wrapping the face like curtains.",
+      "must_not": [
+        "curls swept back away from the face",
+        "ends flipping outward"
+      ],
+      "description_ko": "모근부터 앞쪽으로 결을 잡아 광대를 살짝 덮고 턱 끝으로 흐르게 하는, 얼굴을 감싸는 컬.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.wkorea.com/?p=424035",
+        "https://www.allurekorea.com/?p=339722"
+      ]
+    },
+    {
+      "term": "페이스라인펌",
+      "aliases": [
+        "페이스라인 펌",
+        "얼굴선펌",
+        "face line perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "layers": "face_framing",
+        "texture": "c_curl",
+        "curl_zone": "top_front",
+        "bangs": "face_framing"
+      },
+      "visual_en": "Only the face-framing side strands are curved, so pieces that fall loose beside the face curl softly toward the cheek and jaw.",
+      "must_not": [
+        "curls all over the head",
+        "no face-framing pieces"
+      ],
+      "description_ko": "묶었을 때 흘러내리는 옆머리에만 곡선을 주는 부분 펌.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=339722"
+      ]
+    },
+    {
+      "term": "빈티지웨이브펌",
+      "aliases": [
+        "빈티지 웨이브",
+        "빈티지펌",
+        "vintage wave perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "finish": "messy"
+      },
+      "visual_en": "S-curls set both inward and outward and loosened, looking undone like just-woken-up waves.",
+      "must_not": [
+        "uniform neat inward curls",
+        "straight hair"
+      ],
+      "description_ko": "안쪽·바깥쪽을 섞어 S컬을 넣고 풀어헤친 듯한 웨이브 펌. 얼굴형을 덜 탄다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=317968"
+      ]
+    },
+    {
+      "term": "프렌치펌",
+      "aliases": [
+        "프렌치 펌",
+        "french perm",
+        "프렌치 웨이브"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "texture_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "finish": "messy"
+      },
+      "visual_en": "Loose, natural curls that fall softly as if just out of bed, not neatly set; bohemian and slightly undone.",
+      "must_not": [
+        "perfectly set uniform curls",
+        "sleek straight hair"
+      ],
+      "description_ko": "완벽히 세팅되지 않은, 느슨하고 자연스럽게 흘러내리는 컬의 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.allurekorea.com/?p=356252",
+        "https://allurekorea.com/2026/09/04/%eb%8b%a8%eb%b0%9c%ec%9d%b4-%ec%a7%80%ea%b2%a8%ec%9b%8c%ec%a1%8c%eb%8b%a4%eb%a9%b4-%ec%88%8f%ec%bb%b7%ea%b3%bc-%eb%8b%a8%eb%b0%9c-%ec%82%ac%ec%9d%b4-%ec%9d%b4-%ed%97%a4%ec%96%b4%ea%b0%80-%eb%9c%b9/"
+      ]
+    },
+    {
+      "term": "나나펌",
+      "aliases": [
+        "나나 펌",
+        "숏빈티지펌",
+        "숏 빈티지 펌",
+        "nana perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "neck",
+        "texture": "texture_wave",
+        "curl_size": "small",
+        "curl_zone": "all_over",
+        "bangs": "full_straight",
+        "bangs_length": "brow",
+        "finish": "messy"
+      },
+      "visual_en": "Short tassel-cut bob with fine, subtle waves all over, bangs just above the eyebrows, and wispy strands left flicking out around the face.",
+      "must_not": [
+        "long hair",
+        "big glossy curls",
+        "sleek straight bob"
+      ],
+      "description_ko": "짧아진 태슬컷에 미세한 디지털 웨이브를 잔잔하게 넣은 펌(가수 나나 스타일). 앞머리는 눈썹을 살짝 덮는다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.wkorea.com/?p=401689"
+      ]
+    },
+    {
+      "term": "테슬펌",
+      "aliases": [
+        "태슬펌",
+        "테슬 펌",
+        "태슬 펌",
+        "tassel perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "neck",
+        "texture": "tight_curl",
+        "curl_size": "medium",
+        "curl_zone": "all_over",
+        "volume": "overall_big"
+      },
+      "visual_en": "A below-the-ear tassel bob given a chunky, bouncy volume perm, curls like fusilli pasta that cover the cheekbones.",
+      "must_not": [
+        "long hair",
+        "straight sleek bob",
+        "curls only at ends"
+      ],
+      "description_ko": "귀 밑 기장 태슬컷에 굵직한 볼륨 펌을 더한 스타일.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1890769"
+      ]
+    },
+    {
+      "term": "베이비C컬펌",
+      "aliases": [
+        "베이비 C컬",
+        "베이비 씨컬",
+        "baby c curl"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "chin",
+        "texture": "c_curl",
+        "curl_zone": "ends",
+        "ends": "inward",
+        "layers": "face_framing",
+        "finish": "glossy"
+      },
+      "visual_en": "Glossy chin-length bob with only the ends curled under in a C shape; side hair kept heavy with soft layers from nose level that wrap the cheekbones.",
+      "must_not": [
+        "outward flipped ends",
+        "curls all over",
+        "long hair"
+      ],
+      "description_ko": "단발 끝단만 안쪽 C컬로 말아 넣고 코끝 길이부터 층을 넣어 광대를 감싸는 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.wkorea.com/?p=401689"
+      ]
+    },
+    {
+      "term": "레이어드C컬펌",
+      "aliases": [
+        "레이어드 C컬",
+        "C컬 레이어드",
+        "layered c curl"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "layers": "heavy",
+        "texture": "c_curl",
+        "curl_zone": "ends",
+        "ends": "inward",
+        "length": "shoulder"
+      },
+      "visual_en": "Layered medium hair below the jaw where each layer's ends turn inward in C curls, wrapping the jawline.",
+      "must_not": [
+        "one-length C curl",
+        "outward flips",
+        "curls all over"
+      ],
+      "description_ko": "레이어드컷에 머리끝을 안으로 말아 넣은 스타일. 중단발에서 턱선을 감싼다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=232497",
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "아웃컬펌",
+      "aliases": [
+        "아웃컬",
+        "아웃C컬",
+        "아웃컬 S컬",
+        "바깥컬펌",
+        "out curl perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "outward_flip",
+        "curl_zone": "ends",
+        "ends": "outward",
+        "top": "lifted_root"
+      },
+      "visual_en": "Hair with root lift whose ends flip outward away from the neck, curls starting below the cheekbones on hair longer than the jaw.",
+      "must_not": [
+        "ends curled under",
+        "curls all over"
+      ],
+      "description_ko": "모발 끝을 바깥으로 뻗치게 넣는 컬. 뿌리 볼륨을 살리고 턱선보다 긴 기장에 적용한다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644",
+        "https://blog.enter6.co.kr/895"
+      ]
+    },
+    {
+      "term": "쿠션펌",
+      "aliases": [
+        "쿠션 펌",
+        "cushion perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "c_curl",
+        "top": "lifted_root",
+        "volume": "balanced",
+        "layers": "face_framing",
+        "curl_zone": "ends"
+      },
+      "visual_en": "Below-the-jaw hair with full volume from the roots and C-curled ends, plus face-framing layers, giving a puffy, cushiony rounded shape.",
+      "must_not": [
+        "flat roots",
+        "tight curls"
+      ],
+      "description_ko": "뿌리부터 풍성하게 볼륨을 주는 C컬 펌. 얼굴 앞 라인에 페이스 레이어를 넣는 경우가 많다. 출처가 적다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644"
+      ]
+    },
+    {
+      "term": "루즈S컬",
+      "aliases": [
+        "루즈 S컬",
+        "루즈펌",
+        "루즈웨이브",
+        "루즈 웨이브",
+        "loose s curl",
+        "loose perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "texture": "loose_wave",
+        "curl_size": "large",
+        "curl_zone": "mid_to_ends"
+      },
+      "visual_en": "Thick, loose S-waves that are relaxed rather than tight, adding fullness around the jaw on long bobs or shoulder-length hair.",
+      "must_not": [
+        "tight bouncy curls",
+        "straight hair"
+      ],
+      "description_ko": "굵고 느슨한 S자 웨이브. '루즈펌'은 독립 시술명이라기보다 느슨한 웨이브를 가리키는 표현으로 쓰인다.",
+      "popularity": "medium",
+      "confidence": "low",
+      "sources": [
+        "https://tilnote.io/pages/69e81cef23c4724b7b704644",
+        "https://www.wkorea.com/?p=398614",
+        "https://www.wkorea.com/?p=453853"
+      ]
+    },
+    {
+      "term": "가르마펌",
+      "aliases": [
+        "가르마 펌",
+        "part perm",
+        "6:4 가르마펌",
+        "7:3 가르마펌",
+        "64가르마펌",
+        "73가르마펌",
+        "6대4 가르마펌"
+      ],
+      "gender": "unisex",
+      "category": "perm",
+      "attrs": {
+        "parting": "side_64",
+        "top": "lifted_root",
+        "volume": "crown"
+      },
+      "visual_en": "Root lift at the part line so the hair rises gently from a side part instead of lying flat.",
+      "must_not": [
+        "center part flat hair",
+        "curls on the lengths"
+      ],
+      "description_ko": "가르마 비율에 맞춰 뿌리 볼륨을 살리는 펌. 남성 시술로 더 흔하다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://soomgo.com/questions/3296",
+        "https://namu.wiki/w/%ED%8E%8C"
+      ]
+    },
+    {
+      "term": "숏프렌치펌",
+      "aliases": [
+        "숏 프렌치 펌",
+        "short french perm"
+      ],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "texture": "texture_wave",
+        "curl_zone": "all_over",
+        "bangs": "see_through",
+        "finish": "messy"
+      },
+      "visual_en": "Pixie or bixie-length hair with loose, undone curls all over and wispy bangs just grazing the eyebrows.",
+      "must_not": [
+        "long hair",
+        "sleek straight pixie"
+      ],
+      "description_ko": "픽시·빅시 컷에 자연스러운 컬을 더하고 시스루·위스피 뱅을 매치한 스타일.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://allurekorea.com/2026/09/04/%eb%8b%a8%eb%b0%9c%ec%9d%b4-%ec%a7%80%ea%b2%a8%ec%9b%8c%ec%a1%8c%eb%8b%a4%eb%a9%b4-%ec%88%8f%ec%bb%b7%ea%b3%bc-%eb%8b%a8%eb%b0%9c-%ec%82%ac%ec%9d%b4-%ec%9d%b4-%ed%97%a4%ec%96%b4%ea%b0%80-%eb%9c%b9/"
+      ]
+    },
+    {
+      "term": "시스루뱅",
+      "aliases": [
+        "시스루 뱅",
+        "시스루앞머리",
+        "시스루 앞머리",
+        "see through bangs",
+        "see-through bangs",
+        "wispy bangs"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "see_through",
+        "bangs_length": "brow",
+        "forehead": "little"
+      },
+      "visual_en": "Thin, wispy bangs with gaps between the strands so the forehead shows through, falling to about eyebrow level.",
+      "must_not": [
+        "thick full blunt bangs",
+        "bangs swept to the side",
+        "no bangs"
+      ],
+      "description_ko": "숱을 적게 해 이마가 비쳐 보이는 얇은 앞머리.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/2017/01/26/%EC%B2%98%ED%94%BC%EB%83%90-%EC%8B%9C%EC%8A%A4%EB%A3%A8%EB%83%90-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4",
+        "https://www.allurekorea.com/?p=267959"
+      ]
+    },
+    {
+      "term": "풀뱅",
+      "aliases": [
+        "풀 뱅",
+        "일자앞머리",
+        "일자 앞머리",
+        "full bangs",
+        "blunt bangs"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "full_straight",
+        "bangs_length": "brow",
+        "forehead": "covered"
+      },
+      "visual_en": "Thick, full straight bangs cut across the forehead to just above the eyebrows, covering the forehead completely.",
+      "must_not": [
+        "thin see-through bangs",
+        "side-swept bangs",
+        "curtain bangs parted in the middle"
+      ],
+      "description_ko": "숱을 충분히 두어 이마를 완전히 덮는 일자 앞머리.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=281545",
+        "https://www.allurekorea.com/?p=267959"
+      ]
+    },
+    {
+      "term": "처피뱅",
+      "aliases": [
+        "처피 뱅",
+        "마이크로뱅",
+        "짧은앞머리",
+        "choppy bangs",
+        "micro bangs",
+        "baby bangs"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "short_fringe",
+        "bangs_length": "forehead_mid",
+        "forehead": "half",
+        "finish": "messy"
+      },
+      "visual_en": "Very short bangs cut high on the forehead, well above the eyebrows, with a deliberately uneven jagged edge.",
+      "must_not": [
+        "bangs reaching the eyebrows",
+        "smooth even line",
+        "long curtain bangs"
+      ],
+      "description_ko": "눈썹이 드러나게 짧게 자르고 라인을 일부러 삐죽삐죽 고르지 않게 한 앞머리. 마이크로뱅이라고도 한다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/2016/07/21/w%EB%B7%B0%ED%8B%B0%EC%94%AC%EC%8A%A4%ED%8B%B8%EB%9F%AC-%EC%B2%98%ED%94%BC%EB%B1%85",
+        "https://www.wkorea.com/2017/01/26/%EC%B2%98%ED%94%BC%EB%83%90-%EC%8B%9C%EC%8A%A4%EB%A3%A8%EB%83%90-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4"
+      ]
+    },
+    {
+      "term": "사이드뱅",
+      "aliases": [
+        "사이드 뱅",
+        "옆으로 넘긴 앞머리",
+        "side bangs",
+        "side swept bangs"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "side_swept",
+        "bangs_length": "eye",
+        "forehead": "half",
+        "parting": "side_73"
+      },
+      "visual_en": "Longer bangs swept diagonally across the forehead to one side from a side part.",
+      "must_not": [
+        "straight bangs across the forehead",
+        "center-parted curtain bangs"
+      ],
+      "description_ko": "옆가르마에서 앞머리를 사선으로 한쪽에 넘긴 형태.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=230074",
+        "https://www.allurekorea.com/?p=267959"
+      ]
+    },
+    {
+      "term": "커튼뱅",
+      "aliases": [
+        "커튼 뱅",
+        "커튼앞머리",
+        "커튼 앞머리",
+        "curtain bangs"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "curtain",
+        "bangs_length": "cheekbone",
+        "parting": "center",
+        "forehead": "third"
+      },
+      "visual_en": "Bangs parted in the middle and curving outward to both sides like opened curtains, framing the face in an inverted-V and reaching about the cheekbones.",
+      "must_not": [
+        "straight bangs covering the forehead",
+        "bangs swept to one side only"
+      ],
+      "description_ko": "가운데 가르마로 갈라 양옆으로 휘어지며 얼굴을 감싸는 역V자 앞머리.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=230074",
+        "https://www.vogue.co.kr/?p=381368"
+      ]
+    },
+    {
+      "term": "잔머리",
+      "aliases": [
+        "잔머리 연출",
+        "베이비헤어",
+        "baby hairs",
+        "wispy face strands"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "face_framing",
+        "forehead": "full",
+        "finish": "natural_matte"
+      },
+      "visual_en": "No real bangs; a few fine, short wisps are pulled loose along the hairline and temples to soften the face.",
+      "must_not": [
+        "full bangs",
+        "thick face-framing sections"
+      ],
+      "description_ko": "앞머리 대신 헤어라인·관자놀이의 가는 잔머리를 살짝 빼 얼굴선을 부드럽게 하는 연출.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.vogue.co.kr/?p=199154"
+      ]
+    },
+    {
+      "term": "더듬이머리",
+      "aliases": [
+        "더듬이 머리",
+        "더듬이 앞머리",
+        "더듬이컷",
+        "antenna bangs",
+        "face framing strands"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "face_framing",
+        "bangs_length": "chin",
+        "forehead": "full",
+        "parting": "center"
+      },
+      "visual_en": "Two thin strands left out in front of the ears on each side of a center part, hanging down to about the jaw like antennae, with the rest of the hair tied or pulled back.",
+      "must_not": [
+        "full bangs",
+        "thick side sections"
+      ],
+      "description_ko": "가운데 가르마 양옆으로 숱 적은 앞·옆머리 한 가닥씩을 턱 라인 정도로 늘어뜨린 90년대풍 연출.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://vogue.co.kr/2023/01/21/%EC%9D%91%EB%8B%B5%ED%95%98%EB%9D%BC-90s-%EB%8D%94%EB%93%AC%EC%9D%B4-%ED%97%A4%EC%96%B4-%EC%8A%A4%ED%83%80%EB%93%A4",
+        "https://www.wkorea.com/2022/10/28/%ed%9e%88%eb%a9%94-%ec%bb%b7-%eb%82%98%eb%8f%84-%ed%95%b4%eb%b3%bc%ea%b9%8c/"
+      ]
+    },
+    {
+      "term": "깻잎머리",
+      "aliases": [
+        "깻잎 머리",
+        "깻잎앞머리",
+        "깻잎 앞머리"
+      ],
+      "gender": "female",
+      "category": "bangs",
+      "attrs": {
+        "parting": "deep_side",
+        "bangs": "side_swept",
+        "forehead": "half"
+      },
+      "visual_en": "Deep side part with the front hair laid smoothly across the forehead to one side like a flat leaf, a retro 90s-2000s look.",
+      "must_not": [
+        "center part",
+        "straight full bangs"
+      ],
+      "description_ko": "6:4~8:2 깊은 가르마로 앞머리를 한쪽으로 납작하게 붙여 넘긴 복고풍 스타일.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.wkorea.com/?p=424035"
+      ]
+    },
+    {
+      "term": "5:5가르마",
+      "aliases": [
+        "5:5 가르마",
+        "55가르마",
+        "가운데 가르마",
+        "센터 가르마",
+        "center part",
+        "middle part"
+      ],
+      "gender": "unisex",
+      "category": "part",
+      "attrs": {
+        "parting": "center",
+        "bangs": "none_exposed"
+      },
+      "visual_en": "Hair parted exactly in the middle so it falls evenly to both sides.",
+      "must_not": [
+        "side part",
+        "bangs covering the forehead"
+      ],
+      "description_ko": "정수리에서 이마까지 가운데로 나눈 가르마.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=230074",
+        "https://www.vogue.co.kr/2026/07/18/%ec%a7%80%ec%a7%80-%ed%95%98%eb%94%94%eb%93%9c%ea%b0%80-%ec%a6%9d%eb%aa%85%ed%95%9c-%ea%b0%b8%eb%a6%84%ed%95%9c-%ec%96%bc%ea%b5%b4%ec%9d%98-%eb%b9%84%ea%b2%b0-%ed%95%98%ed%8a%b8-%eb%a0%88%ec%9d%b4/"
+      ]
+    },
+    {
+      "term": "6:4가르마",
+      "aliases": [
+        "6:4 가르마",
+        "64가르마",
+        "옆가르마",
+        "side part"
+      ],
+      "gender": "unisex",
+      "category": "part",
+      "attrs": {
+        "parting": "side_64"
+      },
+      "visual_en": "A slightly off-center side part at about 6:4.",
+      "must_not": [
+        "exact center part",
+        "very deep side part"
+      ],
+      "description_ko": "가운데에서 약간 벗어난 6:4 옆가르마.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/?p=424035"
+      ]
+    },
+    {
+      "term": "7:3가르마",
+      "aliases": [
+        "7:3 가르마",
+        "73가르마",
+        "깊은 가르마"
+      ],
+      "gender": "unisex",
+      "category": "part",
+      "attrs": {
+        "parting": "side_73"
+      },
+      "visual_en": "A clear side part at about 7:3, noticeably off-center.",
+      "must_not": [
+        "center part",
+        "no visible part"
+      ],
+      "description_ko": "7:3 비율의 옆가르마.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/?p=424035"
+      ]
+    },
+    {
+      "term": "포니테일",
+      "aliases": [
+        "포니 테일",
+        "말총머리",
+        "묶은머리",
+        "ponytail"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "ponytail"
+      },
+      "visual_en": "All the hair gathered and tied at the back of the head with the length hanging down from the tie.",
+      "must_not": [
+        "bun",
+        "half-up with hair down underneath",
+        "braids"
+      ],
+      "description_ko": "모든 머리를 뒤로 모아 하나로 묶어 늘어뜨린 스타일.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/?p=72688"
+      ]
+    },
+    {
+      "term": "하이포니테일",
+      "aliases": [
+        "하이 포니테일",
+        "높은 포니테일",
+        "high ponytail"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "ponytail",
+        "top": "flat",
+        "finish": "sleek"
+      },
+      "visual_en": "Hair pulled up smoothly and tied high at the crown, the ponytail swinging from the top of the head.",
+      "must_not": [
+        "low ponytail at the nape",
+        "bun"
+      ],
+      "description_ko": "정수리 가까이 높게 묶은 포니테일.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/?p=72688",
+        "https://www.allurekorea.com/?p=133569"
+      ]
+    },
+    {
+      "term": "양갈래",
+      "aliases": [
+        "양갈래 머리",
+        "양갈래묶음",
+        "트윈테일",
+        "pigtails",
+        "twin tails"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "ponytail",
+        "parting": "center"
+      },
+      "visual_en": "Hair split by a center part into two sections, each tied into its own ponytail on either side of the head.",
+      "must_not": [
+        "single ponytail",
+        "braided pigtails"
+      ],
+      "description_ko": "가운데 가르마로 나눠 양쪽에 하나씩 묶은 스타일.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/?p=424035",
+        "https://www.harpersbazaar.co.kr/article/1873289"
+      ]
+    },
+    {
+      "term": "똥머리",
+      "aliases": [
+        "똥 머리",
+        "만두머리",
+        "번헤어",
+        "번 헤어",
+        "messy bun",
+        "top bun",
+        "bun"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "bun",
+        "finish": "messy"
+      },
+      "visual_en": "Hair gathered up and twisted into a round, loose bun on top of or high on the back of the head, with a casual slightly messy finish.",
+      "must_not": [
+        "ponytail hanging down",
+        "half-up hairstyle",
+        "sleek low chignon"
+      ],
+      "description_ko": "머리를 높게 모아 동그랗게 틀어 올린 번 스타일. 자연스럽게 헝클어진 연출이 일반적이다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=106478",
+        "https://www.allurekorea.com/?p=133569"
+      ]
+    },
+    {
+      "term": "슬릭번",
+      "aliases": [
+        "슬릭 번",
+        "로우번",
+        "쪽머리",
+        "sleek bun",
+        "low bun"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "bun",
+        "finish": "sleek",
+        "top": "flat",
+        "parting": "center"
+      },
+      "visual_en": "Hair brushed back perfectly smooth and glossy into a tight, neat bun at the nape, with no loose strands.",
+      "must_not": [
+        "messy top bun",
+        "ponytail",
+        "loose face-framing strands"
+      ],
+      "description_ko": "잔머리 없이 매끈하게 빗어 뒤통수 아래쪽에 단단히 틀어 묶은 번.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.allurekorea.com/?p=309391"
+      ]
+    },
+    {
+      "term": "반묶음",
+      "aliases": [
+        "반 묶음",
+        "하프업",
+        "하프 업",
+        "반묶음머리",
+        "half up",
+        "half-up hairstyle"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "half_up"
+      },
+      "visual_en": "The top section of hair pulled back and tied at the back of the head while the rest hangs down loose.",
+      "must_not": [
+        "full ponytail",
+        "bun with all hair up"
+      ],
+      "description_ko": "윗머리만 뒤로 모아 묶고 나머지는 내린 스타일.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/?p=18403",
+        "https://www.vogue.co.kr/?p=315099"
+      ]
+    },
+    {
+      "term": "반묶음똥머리",
+      "aliases": [
+        "반묶음 똥머리",
+        "하프번",
+        "half bun",
+        "half up bun"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "half_up",
+        "finish": "messy"
+      },
+      "visual_en": "Top section of hair twisted into a small loose bun at the back of the crown, with the rest of the hair left down.",
+      "must_not": [
+        "full bun with all hair up",
+        "ponytail"
+      ],
+      "description_ko": "윗머리만 모아 작은 번으로 틀고 아래 머리는 풀어 둔 스타일.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.harpersbazaar.co.kr/article/1890769",
+        "https://www.vogue.co.kr/?p=315099"
+      ]
+    },
+    {
+      "term": "땋은머리",
+      "aliases": [
+        "땋은 머리",
+        "땋기",
+        "브레이드",
+        "braid",
+        "braided hair"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "braid"
+      },
+      "visual_en": "Hair woven into a braid, usually one plait hanging down the back or over one shoulder.",
+      "must_not": [
+        "loose hair down",
+        "plain ponytail"
+      ],
+      "description_ko": "머리를 세 갈래 등으로 엮어 땋은 스타일.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/?p=375103",
+        "https://www.allurekorea.com/?p=356252"
+      ]
+    },
+    {
+      "term": "양갈래땋기",
+      "aliases": [
+        "양갈래 땋은머리",
+        "양갈래 땋기",
+        "삐삐머리",
+        "pigtail braids",
+        "two braids"
+      ],
+      "gender": "female",
+      "category": "updo",
+      "attrs": {
+        "updo": "braid",
+        "parting": "center"
+      },
+      "visual_en": "Hair parted in the center and woven into two braids, one hanging on each side.",
+      "must_not": [
+        "single braid",
+        "untied pigtails"
+      ],
+      "description_ko": "가운데 가르마로 나눠 양쪽을 각각 땋은 스타일(삐삐머리).",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/?p=375103",
+        "https://www.vogue.co.kr/?p=800981"
+      ]
+    }
+  ]
+}

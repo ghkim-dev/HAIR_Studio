@@ -1,0 +1,2302 @@
+{
+  "gender": "male",
+  "terms": [
+    {
+      "term": "투블럭",
+      "aliases": [
+        "투블럭컷",
+        "투 블럭",
+        "투블록",
+        "two block",
+        "two-block cut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "top": "natural",
+        "sides": "clipped",
+        "back": "clipped",
+        "layers": "light"
+      },
+      "visual_en": "Short men's cut in two sections: the lower sides and back are clipped very short, while the longer top hair falls over and mostly hides the clipped area; the transition is soft rather than a hard line.",
+      "must_not": [
+        "skin fade down to bare scalp",
+        "sides kept long or covering the ears",
+        "a hard disconnected shaved line (that is an undercut)",
+        "pressed-flat side hair from a down perm instead of clipped hair"
+      ],
+      "description_ko": "옆머리와 뒷머리 아랫단을 짧게 쳐 올리고 윗머리는 길게 남겨 두 블록으로 나눈 커트. 국내에서는 언더컷과 혼용되지만 경계를 자연스럽게 연결하는 경우가 많다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://miinhair.com/sg/ko/blog/two-block-haircut",
+        "https://www.nimble-made.com/blogs/news/korean-haircut"
+      ]
+    },
+    {
+      "term": "소프트 투블럭",
+      "aliases": [
+        "소프트투블럭",
+        "소프트 투블럭컷",
+        "soft two block"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "top": "natural",
+        "sides": "tapered",
+        "back": "tapered",
+        "volume": "crown",
+        "layers": "light"
+      },
+      "visual_en": "Gentle version of a two-block cut: sides and sideburns trimmed short and blended smoothly into the longer top, with no visible step; the top falls naturally from crown to bangs with soft volume.",
+      "must_not": [
+        "clearly clipped lower block with a visible step",
+        "shaved or faded scalp",
+        "long sides over the ears"
+      ],
+      "description_ko": "투블럭의 경계를 부드럽게 연결해 옆머리와 구레나룻을 자연스럽게 정리하고 윗머리는 정수리부터 앞머리까지 볼륨 있게 떨어지게 한 커트.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=341444"
+      ]
+    },
+    {
+      "term": "언더컷",
+      "aliases": [
+        "언더 컷",
+        "undercut",
+        "디스커넥티드 언더컷",
+        "disconnected undercut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "top": "natural",
+        "sides": "clipped",
+        "back": "clipped",
+        "layers": "one_length"
+      },
+      "visual_en": "Men's cut where the sides and back are clipped or faded very short with a sharp, clearly visible disconnection line, and the much longer top sits on top of it without blending.",
+      "must_not": [
+        "sides blended smoothly into the top",
+        "sides left long",
+        "sides pressed flat by a perm rather than clipped"
+      ],
+      "description_ko": "옆·뒷머리를 바리캉으로 짧게 밀고 긴 윗머리와의 경계를 뚜렷하게 끊어 낸 커트. 국내에서는 투블럭과 같은 뜻으로 쓰이기도 하나 서양식 언더컷은 경계선이 분명하다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://miinhair.com/sg/ko/blog/two-block-haircut",
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://gall.dcinside.com/board/view/?id=dcbest&no=119474"
+      ]
+    },
+    {
+      "term": "댄디컷",
+      "aliases": [
+        "댄디 컷",
+        "댄디",
+        "dandy cut",
+        "덴디컷"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "parting": "none",
+        "bangs": "full_straight",
+        "bangs_length": "brow",
+        "forehead": "covered",
+        "texture": "straight",
+        "sides": "tapered",
+        "back": "tapered",
+        "silhouette": "round"
+      },
+      "visual_en": "Neat natural men's cut: straight bangs fall down to just above the eyebrows, no part and no curl, rounded but not puffy shape, sides and back scissor-trimmed short and tidy.",
+      "must_not": [
+        "a visible side part",
+        "curls or waves",
+        "shaved or clipped sides",
+        "forehead exposed or hair swept up"
+      ],
+      "description_ko": "앞머리와 윗머리를 내려 눈썹 위까지 덮고 옆·뒷머리는 짧게 정리한 가장 기본적인 남자 커트. 펌 없이 단정한 둥근 실루엣이 특징.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://creatrip.com/news/11583",
+        "https://visioai.app/ko/blog/namja-peom-jongryu/",
+        "https://tilnote.io/pages/6a0f36cf2b94477ac287b9d9"
+      ]
+    },
+    {
+      "term": "시스루 댄디컷",
+      "aliases": [
+        "시스루댄디컷",
+        "시스루 댄디",
+        "see-through dandy cut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "parting": "none",
+        "bangs": "see_through",
+        "bangs_length": "brow",
+        "forehead": "little",
+        "texture": "straight",
+        "sides": "tapered",
+        "silhouette": "round"
+      },
+      "visual_en": "Dandy cut with lighter bangs: the fringe falls down to the brows but is thinned so small gaps show the forehead through it; straight hair, rounded shape, short tidy sides.",
+      "must_not": [
+        "thick heavy bangs fully covering the forehead",
+        "forehead fully exposed",
+        "curls"
+      ],
+      "description_ko": "댄디컷의 앞머리 숱을 쳐서 이마가 살짝 비치게 만든 스타일. 이마를 완전히 드러내지 않고 시스루처럼 가볍게 덮는다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.marieclairekorea.com/?p=368510",
+        "https://tilnote.io/pages/6a0f36cf2b94477ac287b9d9"
+      ]
+    },
+    {
+      "term": "리프컷",
+      "aliases": [
+        "리프 컷",
+        "leaf cut",
+        "리프컷 정석"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "ear",
+        "bangs": "curtain",
+        "bangs_length": "eye",
+        "forehead": "third",
+        "sides": "over_ears",
+        "layers": "light",
+        "ends": "inward",
+        "silhouette": "egg"
+      },
+      "visual_en": "Medium-length layered men's style: long bangs split and fall in soft curves to both sides of the face like leaves, revealing part of the forehead; side hair is longer, layered and curving in toward the face around the ears; airy, soft volume.",
+      "must_not": [
+        "short clipped sides",
+        "slicked-back hair",
+        "tight curls all over",
+        "blunt one-length bob"
+      ],
+      "description_ko": "울프컷을 베이스로 앞머리와 옆머리를 길러 나뭇잎처럼 얼굴선을 따라 떨어지게 한 레이어드 커트. 앞머리 길이(눈~코)와 옆머리 길이는 출처마다 다르며 펌 없이 드라이로 연출하기도 한다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/2023/09/27/%EC%98%AC%EA%B0%80%EC%9D%84-%EC%9C%A0%ED%96%89%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4-%EC%8A%A4%ED%83%80%EC%9D%BC-4/",
+        "https://www.allurekorea.com/?p=235486",
+        "https://www.wkorea.com/?p=288902"
+      ]
+    },
+    {
+      "term": "세미 리프컷",
+      "aliases": [
+        "세미리프컷",
+        "세미 리프",
+        "semi leaf cut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "bangs": "curtain",
+        "bangs_length": "eye",
+        "forehead": "third",
+        "sides": "tapered",
+        "layers": "light",
+        "silhouette": "egg"
+      },
+      "visual_en": "Shorter take on the leaf cut: the hair above the ears is trimmed short and neat, while the top and long bangs stay longer and fall softly to both sides, ending around the eyes with part of the forehead visible.",
+      "must_not": [
+        "long sides covering the ears",
+        "shaved sides",
+        "bangs swept up off the forehead"
+      ],
+      "description_ko": "리프컷을 짧게 줄여 귀 위 옆머리는 짧게 정리하고 윗머리와 앞머리는 길게 남긴 스타일. 앞머리를 조금 더 내려 날렵하게 연출한다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://creatrip.com/news/11583",
+        "https://www.allurekorea.com/?p=235486"
+      ]
+    },
+    {
+      "term": "크롭컷",
+      "aliases": [
+        "크롭 컷",
+        "크롭",
+        "crop cut",
+        "프렌치 크롭",
+        "french crop",
+        "텍스처 크롭컷",
+        "텍스쳐 크롭",
+        "textured crop"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "textured_choppy",
+        "bangs": "short_fringe",
+        "bangs_length": "forehead_mid",
+        "sides": "tapered",
+        "back": "tapered",
+        "finish": "natural_matte"
+      },
+      "visual_en": "Very short men's cut with a choppy textured top brushed forward into a short straight fringe that ends mid-forehead; sides and back cut very short and neat; matte finish.",
+      "must_not": [
+        "long bangs reaching the eyebrows",
+        "side part",
+        "hair swept up",
+        "curls"
+      ],
+      "description_ko": "윗머리에 질감을 주고 앞머리를 짧게 일자로 내려 이마 중간쯤에서 끊은 짧은 커트. 옆이 뜨면 투블럭이나 페이드를 함께 한다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://creatrip.com/ja/blog/8754",
+        "https://www.gqkorea.co.kr/2026/01/30/%EB%AF%B8%EC%9A%A9%EC%8B%A4-%EA%B0%80%EA%B8%B0-%EC%A0%84-%EC%B0%B8%EA%B3%A0-%EC%98%AC%ED%95%B4-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%8A%94/",
+        "https://www.nimble-made.com/blogs/news/korean-haircut"
+      ]
+    },
+    {
+      "term": "스왓컷",
+      "aliases": [
+        "스왓 컷",
+        "swat cut",
+        "밤톨머리",
+        "밤톨컷"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "natural",
+        "bangs": "short_fringe",
+        "sides": "tapered",
+        "back": "tapered",
+        "texture": "straight"
+      },
+      "visual_en": "Very short, boyish men's cut: the whole head is cut close and round, with the fringe trimmed extremely short near the hairline, short neat sides and back.",
+      "must_not": [
+        "fringe reaching the eyebrows",
+        "long top with swept-up front",
+        "buzzed to the scalp"
+      ],
+      "description_ko": "크롭컷의 변형으로 앞머리를 헤어라인 가까이 아주 짧게 자른 커트. 드라마 '이태원 클라쓰' 박새로이 머리로 유명하며 '밤톨머리'로도 불린다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://creatrip.com/ja/blog/8754",
+        "https://creatrip.com/news/11583"
+      ]
+    },
+    {
+      "term": "아이비리그컷",
+      "aliases": [
+        "아이비리그",
+        "아이비리그 컷",
+        "아이비 리그컷",
+        "ivy league cut",
+        "ivy league"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "raised_back",
+        "parting": "side_73",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "sides": "tapered",
+        "back": "tapered"
+      },
+      "visual_en": "Short, clean men's cut: the front is short and pushed up and slightly to the side from a light side part, forehead fully visible, sides and back cropped short and tapered for a sporty, neat look.",
+      "must_not": [
+        "bangs falling on the forehead",
+        "perm curls",
+        "long top hair",
+        "glossy slicked-back pomade look"
+      ],
+      "description_ko": "앞머리를 짧게 세우거나 옆으로 살짝 넘겨 이마를 드러내고 옆·뒷머리를 짧게 정리한 스포티한 커트. 드롭컷의 베이스가 된다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://creatrip.com/ja/blog/8754",
+        "https://www.esquirekorea.co.kr/article/84031",
+        "https://en.wikipedia.org/wiki/Ivy_League_(haircut)"
+      ]
+    },
+    {
+      "term": "드롭컷",
+      "aliases": [
+        "드롭 컷",
+        "drop cut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "top": "lifted_root",
+        "bangs": "curtain",
+        "bangs_length": "eye",
+        "forehead": "little",
+        "texture": "straight",
+        "sides": "tapered",
+        "back": "tapered"
+      },
+      "visual_en": "Short sides and back with grown-out bangs: the front is lifted slightly at the roots, then drops and curves down along both sides of the face; the bang ends are thinned so they look light and see-through.",
+      "must_not": [
+        "bangs swept up off the forehead",
+        "heavy blunt bangs",
+        "long side hair",
+        "curls"
+      ],
+      "description_ko": "아이비리그컷에서 앞머리를 길러 뿌리는 세우고 끝은 얼굴 양옆으로 떨어지게 한 커트. 옆·뒷머리는 짧고 앞머리 끝을 시스루처럼 가볍게 한다. 단일 매체 기준이라 정의가 넓지 않다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/2023/09/27/%EC%98%AC%EA%B0%80%EC%9D%84-%EC%9C%A0%ED%96%89%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4-%EC%8A%A4%ED%83%80%EC%9D%BC-4/",
+        "https://www.gqkorea.co.kr/?p=252029"
+      ]
+    },
+    {
+      "term": "가일컷",
+      "aliases": [
+        "가일 컷",
+        "가일",
+        "가일 스타일",
+        "guile cut",
+        "gail cut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "parting": "side_73",
+        "bangs": "side_swept",
+        "forehead": "half",
+        "top": "lifted_root",
+        "sides": "tapered",
+        "finish": "natural_matte"
+      },
+      "visual_en": "Asymmetric men's style from a side part: on one side the front hair is lifted and swept away so that side of the forehead is exposed, while on the other side the bangs fall down and cover the forehead; short neat sides, natural matte texture.",
+      "must_not": [
+        "bangs evenly covering the whole forehead",
+        "fully slicked-back glossy hair",
+        "50/50 center part",
+        "both sides of the forehead exposed"
+      ],
+      "description_ko": "가르마를 기준으로 한쪽 앞머리는 올려 이마를 드러내고 다른 쪽은 내려 덮는 비대칭 스타일. 일부 매체는 이마를 '부분적으로 덮는' 앞머리로만 설명해 노출 정도에는 차이가 있다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/2023/09/27/%EC%98%AC%EA%B0%80%EC%9D%84-%EC%9C%A0%ED%96%89%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4-%EC%8A%A4%ED%83%80%EC%9D%BC-4/",
+        "https://www.esquirekorea.co.kr/article/84031",
+        "https://www.esquirekorea.co.kr/article/1911095"
+      ]
+    },
+    {
+      "term": "리젠트컷",
+      "aliases": [
+        "리젠트",
+        "리젠트 컷",
+        "regent cut",
+        "regent"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "top": "raised_back",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "volume": "top_front",
+        "sides": "tapered",
+        "back": "tapered"
+      },
+      "visual_en": "Short men's cut with the front hair raised high and swept back, forehead fully visible; height and volume concentrated at the front and top while the sides lie short and flat.",
+      "must_not": [
+        "bangs falling on the forehead",
+        "flat top with no front height",
+        "long side hair",
+        "side-swept fringe covering one side"
+      ],
+      "description_ko": "앞머리를 높이 세워 뒤로 넘기고 이마를 드러내며 옆머리는 납작하게 정리한 커트. 퐁파두르의 일본식 명칭에서 왔다는 설명과 플랫탑에 가깝다는 설명이 섞여 있다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://creatrip.com/news/11583",
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://gall.dcinside.com/board/view/?id=dcbest&no=119474"
+      ]
+    },
+    {
+      "term": "퐁파두르",
+      "aliases": [
+        "퐁파도르",
+        "pompadour",
+        "퐁파두르 언더컷",
+        "텍스처 퐁파두르"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "top": "raised_back",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "volume": "top_front",
+        "sides": "clipped",
+        "back": "clipped"
+      },
+      "visual_en": "Men's style with a tall rounded mound of hair at the front, swept up and back from the forehead, forehead fully visible; sides and back cut very short so the front volume stands out.",
+      "must_not": [
+        "bangs down on the forehead",
+        "flat lying top",
+        "long sides"
+      ],
+      "description_ko": "앞머리에 볼륨을 크게 세워 뒤로 넘긴 스타일. 옆·뒷머리는 짧게 언더컷으로 처리하는 경우가 많다.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://www.gqkorea.co.kr/?p=90606",
+        "https://www.nimble-made.com/blogs/news/korean-haircut"
+      ]
+    },
+    {
+      "term": "퀴프",
+      "aliases": [
+        "퀴프컷",
+        "퀴프 언더컷",
+        "quiff",
+        "quiff undercut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "lifted_root",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "finish": "messy",
+        "sides": "clipped",
+        "back": "clipped"
+      },
+      "visual_en": "Short-top variant of the pompadour: the short front hair is pushed upward and slightly back with a textured, piece-y finish, forehead visible, sides and back clipped short.",
+      "must_not": [
+        "tall smooth glossy pompadour",
+        "bangs down",
+        "long top"
+      ],
+      "description_ko": "윗머리가 짧은 퐁파두르로 앞머리를 위로 세워 질감을 살린 스타일. 동양인 모발은 앞머리를 꽤 짧게 잘라야 한다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://gall.dcinside.com/board/view/?id=dcbest&no=119474"
+      ]
+    },
+    {
+      "term": "플랫탑",
+      "aliases": [
+        "플랫 탑",
+        "flat top",
+        "flattop"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "silhouette": "square",
+        "sides": "clipped",
+        "back": "clipped"
+      },
+      "visual_en": "Very short men's cut where the top hair stands straight up and is cut to a flat, level surface, giving a squared box-like head shape; sides and back clipped very short.",
+      "must_not": [
+        "rounded top",
+        "hair lying flat on the head",
+        "bangs on forehead"
+      ],
+      "description_ko": "짧은 윗머리를 세워 평평하게 깎아 각진 실루엣을 만든 커트. 국내에서 말하는 리젠트컷이 플랫탑 계열이라는 설명도 있다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://gall.dcinside.com/board/view/?id=dcbest&no=119474"
+      ]
+    },
+    {
+      "term": "포마드",
+      "aliases": [
+        "포마드컷",
+        "포마드 컷",
+        "포마드 스타일",
+        "포마드펌",
+        "포마드헤어",
+        "사이드 파트",
+        "사이드파트",
+        "side part",
+        "pomade"
+      ],
+      "gender": "male",
+      "category": "styling",
+      "attrs": {
+        "length": "short",
+        "parting": "deep_side",
+        "bangs": "swept_up",
+        "top": "raised_back",
+        "forehead": "full",
+        "finish": "glossy",
+        "sides": "tapered",
+        "back": "tapered"
+      },
+      "visual_en": "Classic men's look: hair parted deep on one side and combed up, over and back with a glossy held finish, forehead fully visible, sides and back short and neat.",
+      "must_not": [
+        "bangs on the forehead",
+        "messy matte texture",
+        "curls",
+        "50/50 center part"
+      ],
+      "description_ko": "옆가르마를 깊게 타고 포마드로 윤기 있게 넘겨 이마를 드러낸 클래식 스타일. 정식 커트명이라기보다 사이드 파트·올백류를 통칭하는 말로 쓰인다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://gall.dcinside.com/board/view/?id=dcbest&no=119474",
+        "https://creatrip.com/ja/blog/8754"
+      ]
+    },
+    {
+      "term": "슬릭백",
+      "aliases": [
+        "슬릭 백",
+        "올백",
+        "올빽",
+        "slick back",
+        "slicked back"
+      ],
+      "gender": "unisex",
+      "category": "styling",
+      "attrs": {
+        "top": "raised_back",
+        "parting": "none",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "volume": "minimal",
+        "finish": "glossy"
+      },
+      "visual_en": "All hair combed straight back from the hairline, smooth and close to the head with no part and a glossy or wet finish, forehead fully visible.",
+      "must_not": [
+        "any bangs on the forehead",
+        "a side part",
+        "big volume at the front",
+        "messy texture"
+      ],
+      "description_ko": "가르마 없이 모든 머리를 뒤로 매끈하게 넘겨 이마와 헤어라인을 드러낸 스타일. '올백'이라고도 한다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/2023/09/27/%EC%98%AC%EA%B0%80%EC%9D%84-%EC%9C%A0%ED%96%89%ED%95%98%EB%8A%94-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4-%EC%8A%A4%ED%83%80%EC%9D%BC-4/",
+        "https://www.gqkorea.co.kr/?p=359075",
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi"
+      ]
+    },
+    {
+      "term": "슬릭백 언더컷",
+      "aliases": [
+        "슬릭백언더컷",
+        "slickback undercut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "top": "raised_back",
+        "parting": "none",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "finish": "glossy",
+        "sides": "clipped",
+        "back": "clipped"
+      },
+      "visual_en": "Undercut with the long top combed straight back flat and glossy, forehead fully visible, sides and back clipped short with a clear line.",
+      "must_not": [
+        "sides left long",
+        "bangs down",
+        "voluminous pompadour front"
+      ],
+      "description_ko": "언더컷 위에 윗머리를 포마드로 납작하게 뒤로 넘긴 스타일. 두상과 얼굴형이 그대로 드러난다.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi",
+        "https://gall.dcinside.com/board/view/?id=dcbest&no=119474"
+      ]
+    },
+    {
+      "term": "버즈컷",
+      "aliases": [
+        "버즈 컷",
+        "반삭",
+        "buzz cut",
+        "버즈"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "buzz",
+        "top": "flat",
+        "sides": "tapered",
+        "back": "tapered",
+        "texture": "straight"
+      },
+      "visual_en": "Hair clipped very close to the scalp all over, a few millimetres long, evenly following the head shape; no fringe, no part, no styling.",
+      "must_not": [
+        "completely bald shaved head",
+        "longer textured top",
+        "any bangs"
+      ],
+      "description_ko": "바리캉으로 머리 전체를 수 mm 길이로 짧게 깎은 스타일. 한국에서는 '반삭'이라고도 하며 3~6mm 정도 남기는 것을 권한다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=341444",
+        "https://www.gqkorea.co.kr/?p=356965",
+        "https://www.gqkorea.co.kr/?p=359075"
+      ]
+    },
+    {
+      "term": "크루컷",
+      "aliases": [
+        "크루 컷",
+        "crew cut"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "natural",
+        "sides": "tapered",
+        "back": "tapered"
+      },
+      "visual_en": "Very short men's cut, slightly longer on top than on the sides; the short top can be brushed forward or up, sides tightly tapered and neat.",
+      "must_not": [
+        "buzzed evenly to the scalp",
+        "long fringe",
+        "faded to skin"
+      ],
+      "description_ko": "윗머리를 옆보다 약간 길게 남긴 아주 짧은 커트. 옆 라인을 타이트하게 정리한다.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=356965"
+      ]
+    },
+    {
+      "term": "하이 앤 타이트",
+      "aliases": [
+        "하이앤타이트",
+        "high and tight"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "natural",
+        "sides": "skin_fade",
+        "back": "clipped",
+        "layers": "light"
+      },
+      "visual_en": "Military-style cut: sides and back clipped extremely short almost to the skin, with a short top about 3 cm long left with light layers and a little volume.",
+      "must_not": [
+        "longer sides",
+        "long top or bangs",
+        "even length all over"
+      ],
+      "description_ko": "옆·뒷머리를 아주 짧게 밀고 윗머리를 3cm 정도 남긴 군인 스타일 커트.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=90606"
+      ]
+    },
+    {
+      "term": "시저컷",
+      "aliases": [
+        "시저 컷",
+        "caesar cut",
+        "클루니컷"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "flat",
+        "bangs": "short_fringe",
+        "bangs_length": "forehead_mid",
+        "sides": "tapered",
+        "finish": "natural_matte"
+      },
+      "visual_en": "Short even men's cut with the top brushed forward into a short straight textured fringe high on the forehead, sides clean and short, matte finish.",
+      "must_not": [
+        "long bangs",
+        "swept-up front",
+        "curls"
+      ],
+      "description_ko": "윗머리를 앞으로 빗어 짧은 일자 앞머리를 만든 짧은 커트. 크롭컷과 비슷하나 더 고르고 단정하다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=356965",
+        "https://www.nimble-made.com/blogs/news/korean-haircut"
+      ]
+    },
+    {
+      "term": "상고머리",
+      "aliases": [
+        "상고 머리",
+        "상고컷",
+        "sanggo"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "very_short",
+        "top": "flat",
+        "sides": "tapered",
+        "back": "tapered",
+        "silhouette": "straight_line"
+      },
+      "visual_en": "Traditional short barbershop cut with a smooth, straight, tidy outline; top kept short with a slight height at the crown, sides and back neatly graduated short.",
+      "must_not": [
+        "long textured top",
+        "bangs covering the eyebrows",
+        "perm curls"
+      ],
+      "description_ko": "이발소에서 하던 전통적인 짧은 남자 머리로 직선적이고 매끈한 실루엣이 특징. 확보한 출처가 적어 세부 정의는 신뢰도가 낮다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://carat.im/prompt-gallery/sanggo-hairstyle"
+      ]
+    },
+    {
+      "term": "페이드컷",
+      "aliases": [
+        "페이드 컷",
+        "페이드",
+        "fade cut",
+        "fade"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "skin_fade",
+        "back": "clipped"
+      },
+      "visual_en": "Short men's cut where the sides and back gradually get shorter from top to bottom, blending from the longer top down to very short or bare skin near the ears and neck with no visible line.",
+      "must_not": [
+        "sides left long",
+        "a hard disconnected line",
+        "sides pressed flat by perm"
+      ],
+      "description_ko": "윗머리에서 아래로 갈수록 점점 짧아지게 옆·뒷머리를 그러데이션으로 깎은 커트. 시작 높이에 따라 로우·미드·하이로 나뉜다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/?p=193066",
+        "https://www.gqkorea.co.kr/?p=392911",
+        "https://miinhair.com/sg/ko/blog/two-block-haircut"
+      ]
+    },
+    {
+      "term": "스킨페이드",
+      "aliases": [
+        "스킨 페이드",
+        "skin fade",
+        "bald fade"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "skin_fade",
+        "back": "clipped"
+      },
+      "visual_en": "Fade where the lowest part of the sides and nape is taken right down to bare skin, blending up into the longer hair on top.",
+      "must_not": [
+        "any length left at the bottom of the sides",
+        "long sides",
+        "pressed-flat sides"
+      ],
+      "description_ko": "옆머리 아랫부분을 두피가 보일 정도로 0mm까지 밀어 올린 페이드.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/?p=193066",
+        "https://www.gqkorea.co.kr/?p=356965"
+      ]
+    },
+    {
+      "term": "로우페이드",
+      "aliases": [
+        "로우 페이드",
+        "로 페이드",
+        "low fade"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "skin_fade",
+        "back": "clipped"
+      },
+      "visual_en": "Fade that starts very low, just above the ears; most of the sides keep some length and only the area right above the ears and at the neckline is faded very short.",
+      "must_not": [
+        "fade starting high near the temples",
+        "whole side shaved",
+        "long sides"
+      ],
+      "description_ko": "귀 바로 위에서 시작하는 낮은 페이드. 옆머리 대부분은 길이가 남는다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=392911"
+      ]
+    },
+    {
+      "term": "미드페이드",
+      "aliases": [
+        "미드 페이드",
+        "mid fade"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "skin_fade",
+        "back": "clipped"
+      },
+      "visual_en": "Fade that starts around the temples, halfway up the side of the head, blending down to very short at the ears and neck.",
+      "must_not": [
+        "fade only at the ear line",
+        "fade reaching the crown",
+        "long sides"
+      ],
+      "description_ko": "관자놀이 높이에서 시작하는 중간 높이 페이드.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=392911"
+      ]
+    },
+    {
+      "term": "하이페이드",
+      "aliases": [
+        "하이 페이드",
+        "high fade"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "skin_fade",
+        "back": "clipped"
+      },
+      "visual_en": "Fade that starts high on the head, near the top corners, so most of the sides are very short or bare, creating strong contrast with the longer top.",
+      "must_not": [
+        "low fade just above the ears",
+        "long sides",
+        "sides covering ears"
+      ],
+      "description_ko": "높은 위치에서 시작해 옆머리 대부분이 짧아 윗머리와 대비가 강한 페이드.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=392911"
+      ]
+    },
+    {
+      "term": "테이퍼페이드",
+      "aliases": [
+        "테이퍼 페이드",
+        "테이퍼",
+        "taper fade",
+        "taper"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "tapered",
+        "back": "tapered"
+      },
+      "visual_en": "Subtle fade where the hair shortens only gently and gradually at the sideburns and nape, keeping the overall shape and leaving little or no skin showing.",
+      "must_not": [
+        "bare skin on the sides",
+        "hard line",
+        "long sides over ears"
+      ],
+      "description_ko": "구레나룻과 목덜미에서만 완만하게 길이를 줄여 전체 형태는 유지하는 은은한 페이드.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=392911"
+      ]
+    },
+    {
+      "term": "드롭페이드",
+      "aliases": [
+        "드롭 페이드",
+        "drop fade"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "skin_fade",
+        "back": "clipped"
+      },
+      "visual_en": "Fade whose line curves downward behind the ear, dropping lower at the back of the head toward the nape instead of running straight around.",
+      "must_not": [
+        "straight horizontal fade line",
+        "long sides"
+      ],
+      "description_ko": "페이드 라인이 귀 뒤에서 아래로 곡선을 그리며 떨어지는 변형 페이드. 국내 자료에서는 이름만 언급된다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=392911",
+        "https://latest-hairstyles.com/mens/drop-fade.html"
+      ]
+    },
+    {
+      "term": "버스트페이드",
+      "aliases": [
+        "버스트 페이드",
+        "burst fade"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "skin_fade",
+        "back": "natural"
+      },
+      "visual_en": "Fade done in a half-circle around each ear only, the hair radiating out from the ear, while length is kept at the nape and on top; suits curly or textured hair.",
+      "must_not": [
+        "fade running all the way around the back",
+        "long sides with no fade"
+      ],
+      "description_ko": "귀 주변만 반원형으로 페이드하고 윗머리와 뒷머리 길이는 남기는 페이드. 곱슬·질감 모발에 잘 어울린다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=356965"
+      ]
+    },
+    {
+      "term": "멀렛",
+      "aliases": [
+        "멀릿",
+        "멀렛컷",
+        "멀릿컷",
+        "mullet"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "tapered",
+        "back": "longer_nape",
+        "layers": "light"
+      },
+      "visual_en": "Short at the front and sides, with noticeably longer hair left at the back of the neck.",
+      "must_not": [
+        "even length all around",
+        "short tapered nape",
+        "long hair all over"
+      ],
+      "description_ko": "앞과 옆은 짧게, 뒷머리는 길게 남긴 커트.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=356965",
+        "https://www.gqkorea.co.kr/2026/01/30/%EB%AF%B8%EC%9A%A9%EC%8B%A4-%EA%B0%80%EA%B8%B0-%EC%A0%84-%EC%B0%B8%EA%B3%A0-%EC%98%AC%ED%95%B4-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%8A%94/",
+        "https://www.nimble-made.com/blogs/news/korean-haircut"
+      ]
+    },
+    {
+      "term": "베이비 멀렛",
+      "aliases": [
+        "베이비멀렛",
+        "베이비 멀릿",
+        "소프트 멀릿",
+        "미니 멀릿",
+        "화이트칼라 멀릿",
+        "baby mullet",
+        "soft mullet"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "sides": "tapered",
+        "back": "longer_nape",
+        "layers": "light",
+        "finish": "natural_matte"
+      },
+      "visual_en": "Toned-down mullet: short neat front and sides with only a small, slightly longer tail of hair at the nape, subtle rather than dramatic.",
+      "must_not": [
+        "long dramatic tail past the shoulders",
+        "even short nape"
+      ],
+      "description_ko": "멀렛을 순화해 뒷머리만 살짝 길게 남긴 현실적인 버전. 소프트·미니·화이트칼라 멀릿과 같은 계열이다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=356965",
+        "https://www.gqkorea.co.kr/2026/01/30/%EB%AF%B8%EC%9A%A9%EC%8B%A4-%EA%B0%80%EA%B8%B0-%EC%A0%84-%EC%B0%B8%EA%B3%A0-%EC%98%AC%ED%95%B4-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%8A%94/"
+      ]
+    },
+    {
+      "term": "울프컷",
+      "aliases": [
+        "울프 컷",
+        "wolf cut",
+        "울프"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "length": "ear",
+        "top": "textured_choppy",
+        "layers": "heavy",
+        "back": "longer_nape",
+        "ends": "thinned",
+        "silhouette": "shaggy"
+      },
+      "visual_en": "Heavily layered choppy cut: short textured layers on top and textured uneven bangs, with longer wispy hair flowing at the nape like a mane.",
+      "must_not": [
+        "short tapered back",
+        "smooth one-length hair",
+        "slicked-back top"
+      ],
+      "description_ko": "윗머리를 짧게 층을 내고 뒷머리를 길게 남겨 늑대 갈기처럼 보이게 한 커트. 멀렛과 비슷하지만 층이 훨씬 많다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.vogue.co.kr/2017/08/11/%ea%b9%80%eb%b3%91%ec%a7%80%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94/",
+        "https://www.nimble-made.com/blogs/news/korean-haircut"
+      ]
+    },
+    {
+      "term": "샤기컷",
+      "aliases": [
+        "쉐기컷",
+        "샤기 컷",
+        "세미 샤기컷",
+        "내추럴 샤기컷",
+        "shag cut",
+        "shaggy cut"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "length": "neck",
+        "bangs": "full_straight",
+        "bangs_length": "brow",
+        "layers": "heavy",
+        "ends": "thinned",
+        "sides": "over_ears",
+        "silhouette": "shaggy"
+      },
+      "visual_en": "Airy, heavily layered medium-length cut with thinned piece-y ends, bangs falling naturally to just above the brows, and longer sides and back framing the neck.",
+      "must_not": [
+        "blunt one-length hair",
+        "short clipped sides",
+        "slicked back"
+      ],
+      "description_ko": "층을 많이 내고 끝을 가볍게 쳐서 부스스하고 가벼운 실루엣을 만든 커트. 옆·뒷머리가 목선을 감싼다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/2026/01/30/%EB%AF%B8%EC%9A%A9%EC%8B%A4-%EA%B0%80%EA%B8%B0-%EC%A0%84-%EC%B0%B8%EA%B3%A0-%EC%98%AC%ED%95%B4-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%8A%94/",
+        "https://creatrip.com/news/11583",
+        "https://www.gqkorea.co.kr/?p=359075"
+      ]
+    },
+    {
+      "term": "볼컷",
+      "aliases": [
+        "보울컷",
+        "바가지머리",
+        "바가지 머리",
+        "bowl cut"
+      ],
+      "gender": "unisex",
+      "category": "cut",
+      "attrs": {
+        "length": "short",
+        "bangs": "full_straight",
+        "bangs_length": "brow",
+        "forehead": "covered",
+        "ends": "blunt",
+        "layers": "one_length",
+        "silhouette": "round"
+      },
+      "visual_en": "Rounded mushroom-like cut: hair falls evenly all around from the crown, with a blunt straight fringe across the brows and the sides cut to a matching even line.",
+      "must_not": [
+        "side part",
+        "swept-up front",
+        "shaggy uneven layers"
+      ],
+      "description_ko": "정수리에서 둥글게 떨어지고 앞머리를 일자로 잘라 바가지를 엎은 듯한 커트.",
+      "popularity": "low",
+      "confidence": "high",
+      "sources": [
+        "https://www.nimble-made.com/blogs/news/korean-haircut",
+        "https://www.gqkorea.co.kr/?p=356965",
+        "https://www.gqkorea.co.kr/?p=359075"
+      ]
+    },
+    {
+      "term": "장발",
+      "aliases": [
+        "남자 장발",
+        "long hair men"
+      ],
+      "gender": "male",
+      "category": "cut",
+      "attrs": {
+        "length": "shoulder",
+        "parting": "center",
+        "texture": "loose_wave",
+        "sides": "long",
+        "layers": "light"
+      },
+      "visual_en": "Men's long hair grown to about the shoulders, usually parted in the center and worn down with loose, soft waves.",
+      "must_not": [
+        "short sides",
+        "tied up bun",
+        "tight curls"
+      ],
+      "description_ko": "어깨 정도까지 기른 남자 긴 머리. 주로 가운데 가르마에 느슨한 웨이브 펌을 더한다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://creatrip.com/ja/blog/8754",
+        "https://www.gqkorea.co.kr/?p=341444"
+      ]
+    },
+    {
+      "term": "가르마펌",
+      "aliases": [
+        "가르마 펌",
+        "garma perm",
+        "side part perm",
+        "곡선 가르마",
+        "6:4 가르마펌",
+        "7:3 가르마펌",
+        "64가르마펌",
+        "73가르마펌",
+        "6대4 가르마펌"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "parting": "side_64",
+        "bangs": "side_swept",
+        "forehead": "third",
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "top_front",
+        "top": "lifted_root",
+        "sides": "tapered"
+      },
+      "visual_en": "Men's perm with a clear side part around 6:4: the front hair lifts at the root at the part and sweeps away from it in soft S-waves, showing a clear portion of the forehead; volume on top, sides neat and close.",
+      "must_not": [
+        "50/50 center part",
+        "slicked-back glossy hair",
+        "tight small curls",
+        "bangs falling straight down over the forehead"
+      ],
+      "description_ko": "6:4 또는 7:3 가르마를 뚜렷하게 타고 앞머리를 뿌리 볼륨과 S컬로 넘겨 이마를 시원하게 드러내는 펌. 애즈펌보다 가르마가 분명하고 이마 노출이 크다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://creatrip.com/news/11583",
+        "https://visioai.app/ko/blog/namja-peom-jongryu/",
+        "https://tilnote.io/pages/6a0f36cf2b94477ac287b9d9"
+      ]
+    },
+    {
+      "term": "애즈펌",
+      "aliases": [
+        "애즈 펌",
+        "애즈",
+        "애즈스타일",
+        "애즈 스타일",
+        "as perm",
+        "az perm",
+        "에즈펌",
+        "애즈컷"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "bangs": "full_straight",
+        "bangs_length": "brow",
+        "forehead": "little",
+        "texture": "c_curl",
+        "curl_size": "small",
+        "curl_zone": "bang_ends",
+        "sides": "flat_down"
+      },
+      "visual_en": "Short men's perm: the bangs fall down onto the forehead and their ends curve softly inward in a C shape, with a slight off-center split so only a finger or two of forehead shows; soft volume on top, sides neat and close.",
+      "must_not": [
+        "a clear wide side part with the forehead mostly exposed (that is 가르마펌)",
+        "big or loose curls",
+        "hair swept up off the forehead",
+        "shaved sides"
+      ],
+      "description_ko": "앞머리를 내리되 가르마를 살짝만 타서 이마가 손가락 한두 개 정도만 보이게 하고 끝을 C컬로 말아 준 펌. 가르마펌과 덮머의 중간. 한 출처는 S웨이브 옆가르마로 설명해 이견이 있다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://visioai.app/ko/blog/namja-peom-jongryu/",
+        "https://creatrip.com/news/11583",
+        "https://www.esquirekorea.co.kr/article/1911095"
+      ]
+    },
+    {
+      "term": "쉐도우펌",
+      "aliases": [
+        "쉐도우 펌",
+        "섀도우펌",
+        "shadow perm",
+        "시스루 쉐도우펌",
+        "슬릭 쉐도우펌"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "bangs": "full_straight",
+        "forehead": "covered",
+        "texture": "texture_wave",
+        "curl_size": "medium",
+        "curl_zone": "top_front",
+        "sides": "flat_down"
+      },
+      "visual_en": "Men's perm with the bangs brought forward over the forehead and soft, natural waves through the top and front so the hair looks textured and shadowy rather than curly; sides smooth and close to the head.",
+      "must_not": [
+        "tight defined ringlets",
+        "slicked back or swept up",
+        "a clear side part",
+        "shaved sides"
+      ],
+      "description_ko": "앞머리를 앞으로 내리고 윗머리와 앞머리에 자연스러운 웨이브를 넣어 결을 살린 펌. 출처에 따라 컬이 거의 없는 결 펌부터 강한 컬, 장발용 펌까지 설명이 엇갈려 다수 의견(앞머리 내림+자연스러운 웨이브)을 따랐다.",
+      "popularity": "high",
+      "confidence": "low",
+      "sources": [
+        "https://www.chop.kr/17/?bmode=view&idx=16206397",
+        "https://gall.dcinside.com/board/view/?id=hair&no=517251",
+        "https://visioai.app/ko/blog/namja-peom-jongryu/"
+      ]
+    },
+    {
+      "term": "가일펌",
+      "aliases": [
+        "가일 펌",
+        "gail perm",
+        "guile perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "parting": "side_73",
+        "bangs": "side_swept",
+        "forehead": "half",
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "top_front",
+        "sides": "tapered"
+      },
+      "visual_en": "Perm version of the guile cut: from a side part, one side of the front is lifted and swept back to expose that side of the forehead, while the other side falls down in soft waves covering the forehead; short neat sides.",
+      "must_not": [
+        "both sides of the forehead exposed",
+        "even bangs across the forehead",
+        "center part",
+        "glossy slick-back"
+      ],
+      "description_ko": "가일컷 형태를 펌으로 고정한 것으로 한쪽 앞머리는 올려 넘기고 다른 쪽은 내린다. 일부 기사에서는 가일펌을 쉼표머리와 같은 것으로 쓰기도 한다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://creatrip.com/ja/blog/8754",
+        "https://www.insight.co.kr/news/263960",
+        "https://tilnote.io/pages/6a0f36cf2b94477ac287b9d9"
+      ]
+    },
+    {
+      "term": "리젠트펌",
+      "aliases": [
+        "리젠트 펌",
+        "regent perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "top": "raised_back",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "top_front",
+        "volume": "top_front",
+        "sides": "tapered"
+      },
+      "visual_en": "Perm that holds the regent shape: the front hair is lifted and swept up and back in soft waves, forehead fully visible, with height at the front and short sides.",
+      "must_not": [
+        "bangs down over the forehead",
+        "flat top",
+        "tight curls"
+      ],
+      "description_ko": "리젠트 스타일을 유지하기 위해 앞머리와 윗머리를 올려 넘기는 방향으로 넣는 펌. 남자 펌 목록에 이름만 자주 보이고 상세 정의 자료는 적다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://tilnote.io/pages/6a0f36cf2b94477ac287b9d9",
+        "https://m.cafe.daum.net/dotax/OUBq/4821?svc=cafeapi"
+      ]
+    },
+    {
+      "term": "스왈로펌",
+      "aliases": [
+        "스왈로 펌",
+        "스왈로우펌",
+        "swallow perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "bangs": "side_swept",
+        "forehead": "third",
+        "texture": "outward_flip",
+        "curl_zone": "ends",
+        "curl_size": "medium",
+        "sides": "tapered"
+      },
+      "visual_en": "Men's perm where the longer bangs sweep diagonally to one side and the hair ends flare outward like a swallow's tail, giving a bold, textured look with part of the forehead showing.",
+      "must_not": [
+        "ends curling inward",
+        "straight blunt bangs",
+        "fully exposed slicked forehead"
+      ],
+      "description_ko": "앞머리와 모발 끝이 제비 꼬리처럼 바깥으로 뻗치게 넣는 펌으로 강한 질감과 인상을 준다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://mamedene.com/magazines/192",
+        "https://creatrip.com/news/11583"
+      ]
+    },
+    {
+      "term": "스핀스왈로펌",
+      "aliases": [
+        "스핀 스왈로펌",
+        "스핀스왈로",
+        "소프트 스핀 스왈로펌",
+        "spin swallow perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "texture": "texture_wave",
+        "curl_size": "small",
+        "curl_zone": "all_over",
+        "finish": "messy",
+        "volume": "balanced"
+      },
+      "visual_en": "Men's perm where small strands are twisted individually, giving a dense, light, piece-y twisted texture all over with a slightly frizzy, Japanese-inspired feel.",
+      "must_not": [
+        "smooth straight hair",
+        "large loose waves",
+        "slicked back"
+      ],
+      "description_ko": "모발을 가닥가닥 꼬아 감아 촘촘하고 가벼운 비틀림 질감을 만드는 펌. 일본식 스타일 영향이 있다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://creatrip.com/ja/blog/8754",
+        "https://creatrip.com/news/11583"
+      ]
+    },
+    {
+      "term": "히피펌",
+      "aliases": [
+        "히피 펌",
+        "남자 히피펌",
+        "hippie perm",
+        "히삐펌"
+      ],
+      "gender": "unisex",
+      "category": "perm",
+      "attrs": {
+        "length": "chin",
+        "texture": "tight_curl",
+        "curl_size": "small",
+        "curl_zone": "all_over",
+        "volume": "overall_big",
+        "silhouette": "round"
+      },
+      "visual_en": "Small, tight curls from root to end all over the head, creating big, full volume; for men usually on chin-to-shoulder-length hair.",
+      "must_not": [
+        "straight hair",
+        "loose large waves only",
+        "curls only at the ends"
+      ],
+      "description_ko": "모근부터 끝까지 잔 컬을 촘촘히 넣어 전체적으로 풍성한 볼륨을 만드는 펌. 남자는 턱~어깨 중장발에 주로 한다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=341444",
+        "https://mamedene.com/magazines/192"
+      ]
+    },
+    {
+      "term": "세미히피펌",
+      "aliases": [
+        "세미 히피펌",
+        "semi hippie perm"
+      ],
+      "gender": "unisex",
+      "category": "perm",
+      "attrs": {
+        "length": "ear",
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "volume": "balanced"
+      },
+      "visual_en": "Looser version of a hippie perm: natural flowing medium waves rather than tight curls, with volume at the sides of the head.",
+      "must_not": [
+        "tight small ringlets all over",
+        "straight hair"
+      ],
+      "description_ko": "히피펌보다 컬을 느슨하게 해 자연스럽게 흐르는 웨이브를 넣은 펌. 옆 볼륨으로 중안부를 짧아 보이게 한다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=317108"
+      ]
+    },
+    {
+      "term": "브로콜리펌",
+      "aliases": [
+        "브로콜리 펌",
+        "broccoli perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "texture": "tight_curl",
+        "curl_size": "small",
+        "curl_zone": "top_front",
+        "volume": "overall_big",
+        "sides": "tapered",
+        "silhouette": "round"
+      },
+      "visual_en": "Puffy mop of tight curls concentrated on top and front, like a broccoli head, with shorter sides.",
+      "must_not": [
+        "straight hair",
+        "flat top",
+        "loose waves"
+      ],
+      "description_ko": "윗머리에 촘촘한 컬을 넣어 브로콜리처럼 부풀린 펌. 모프탑보다 더 부풀고 샤기하다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=359075"
+      ]
+    },
+    {
+      "term": "베이비펌",
+      "aliases": [
+        "베이비 펌",
+        "baby perm"
+      ],
+      "gender": "unisex",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "texture": "tight_curl",
+        "curl_size": "small",
+        "curl_zone": "all_over",
+        "silhouette": "round",
+        "volume": "balanced"
+      },
+      "visual_en": "Small, bouncy, springy curls all over giving a rounded, soft shape; tighter and more defined than a hippie perm.",
+      "must_not": [
+        "loose waves",
+        "straight hair",
+        "curls only at the bangs"
+      ],
+      "description_ko": "작고 탄력 있는 컬로 둥글고 귀여운 실루엣을 만드는 펌. 히피펌보다 컬이 선명하며, 기르는 중인 머리를 정돈하는 용도로도 쓴다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://mamedene.com/magazines/192",
+        "https://www.harpersbazaar.co.kr/article/1873289"
+      ]
+    },
+    {
+      "term": "러블리펌",
+      "aliases": [
+        "러블리 펌",
+        "lovely perm"
+      ],
+      "gender": "unisex",
+      "category": "perm",
+      "attrs": {
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "all_over",
+        "volume": "overall_big"
+      },
+      "visual_en": "Perm with thicker, rounder curls than a hippie perm all over, aimed at adding fullness to thin hair.",
+      "must_not": [
+        "tiny tight curls",
+        "straight hair"
+      ],
+      "description_ko": "히피펌보다 굵은 컬로 볼륨을 주는 펌. 숱이 적은 모발에 권한다.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://mamedene.com/magazines/192"
+      ]
+    },
+    {
+      "term": "아이롱펌",
+      "aliases": [
+        "아이롱 펌",
+        "아이론펌",
+        "iron perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "texture": "s_wave",
+        "curl_size": "medium",
+        "curl_zone": "top_front",
+        "top": "lifted_root",
+        "sides": "tapered"
+      },
+      "visual_en": "Heat perm done with a curling iron: firm, clearly defined curls on the top and front with lifted roots, neat and holding their shape; sides kept tidy.",
+      "must_not": [
+        "loose barely-there waves",
+        "flat straight hair",
+        "frizzy tiny curls all over"
+      ],
+      "description_ko": "열기구(아이롱)로 감아 컬 모양이 선명하고 오래가는 펌. 뿌리 볼륨과 정돈된 컬 질감이 특징.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://mamedene.com/magazines/192",
+        "https://view.o2u.kr/남성-헤어스타일-아이롱-펌-추천-자연스러운-웨이브/"
+      ]
+    },
+    {
+      "term": "볼륨펌",
+      "aliases": [
+        "볼륨 펌",
+        "내추럴 볼륨펌",
+        "volume perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "top": "lifted_root",
+        "texture": "body_wave",
+        "curl_size": "small",
+        "curl_zone": "top_front",
+        "volume": "top_front"
+      },
+      "visual_en": "Perm that mainly lifts the top hair at the roots for fuller height, with only a subtle soft wave rather than obvious curls.",
+      "must_not": [
+        "obvious tight curls",
+        "puffy sides",
+        "flat top"
+      ],
+      "description_ko": "윗머리 뿌리를 세워 볼륨을 주는 펌. 컬은 은은하게 두고 흐름과 볼륨을 강조한다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/2026/01/30/%EB%AF%B8%EC%9A%A9%EC%8B%A4-%EA%B0%80%EA%B8%B0-%EC%A0%84-%EC%B0%B8%EA%B3%A0-%EC%98%AC%ED%95%B4-%EB%82%A8%EC%9E%90-%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%8A%94/",
+        "https://www.nimble-made.com/blogs/news/korean-perm-men",
+        "https://www.gqkorea.co.kr/?p=359075"
+      ]
+    },
+    {
+      "term": "루즈 볼륨펌",
+      "aliases": [
+        "루즈볼륨펌",
+        "loose volume perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "ear",
+        "parting": "center",
+        "bangs": "curtain",
+        "forehead": "third",
+        "texture": "c_curl",
+        "curl_size": "large",
+        "curl_zone": "top_front",
+        "volume": "top_front"
+      },
+      "visual_en": "Relaxed perm on longer men's hair: center-parted bangs and top shaped with thick, large C-curls that frame the face and fall softly along the cheeks, with part of the forehead open.",
+      "must_not": [
+        "tight small curls",
+        "flat straight hair",
+        "side part with swept-up front"
+      ],
+      "description_ko": "가운데 가르마로 이마를 일부 열고 앞머리와 윗머리에 굵은 C컬을 넣어 얼굴선을 따라 부드럽게 떨어지게 한 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.esquirekorea.co.kr/article/1896805"
+      ]
+    },
+    {
+      "term": "댄디펌",
+      "aliases": [
+        "댄디 펌",
+        "댄디 볼륨펌",
+        "댄디 볼륨매직",
+        "dandy perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "parting": "none",
+        "bangs": "full_straight",
+        "forehead": "covered",
+        "texture": "body_wave",
+        "curl_size": "small",
+        "volume": "balanced",
+        "silhouette": "round"
+      },
+      "visual_en": "Perm on a dandy cut that adds soft overall volume without visible curls: bangs down over the forehead, rounded full shape, clean and neat.",
+      "must_not": [
+        "visible defined curls",
+        "side part",
+        "hair swept up"
+      ],
+      "description_ko": "댄디컷에 전체적인 볼륨을 주어 깔끔하면서도 가라앉지 않게 하는 펌. 컬을 싫어하거나 모발이 가는 사람에게 권한다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://mamedene.com/magazines/192",
+        "https://m.cafe.daum.net/doshair/irm/348"
+      ]
+    },
+    {
+      "term": "내추럴펌",
+      "aliases": [
+        "내추럴 펌",
+        "내추럴 웨이브펌",
+        "natural perm",
+        "natural wave perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "texture": "texture_wave",
+        "curl_size": "small",
+        "curl_zone": "top_front",
+        "volume": "balanced"
+      },
+      "visual_en": "Gentle perm with fine, soft waves that follow the hair's natural direction and fall smoothly, without strong curl.",
+      "must_not": [
+        "strong tight curls",
+        "big volume"
+      ],
+      "description_ko": "모발 결을 따라 가늘고 부드러운 웨이브가 자연스럽게 흐르는 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://mamedene.com/magazines/192",
+        "https://www.esquirekorea.co.kr/article/1896805"
+      ]
+    },
+    {
+      "term": "텍스처펌",
+      "aliases": [
+        "텍스쳐펌",
+        "텍스처 펌",
+        "texture perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "short",
+        "top": "textured_choppy",
+        "texture": "texture_wave",
+        "curl_zone": "top_front",
+        "sides": "clipped",
+        "finish": "messy"
+      },
+      "visual_en": "Perm that gives the short top a choppy, lifted, piece-y texture, while the sides are kept short with a two-block underneath.",
+      "must_not": [
+        "long sides",
+        "smooth sleek top",
+        "uniform round curls"
+      ],
+      "description_ko": "윗머리에 질감과 볼륨을 주고 옆은 투블럭으로 짧게 정리하는 펌.",
+      "popularity": "low",
+      "confidence": "low",
+      "sources": [
+        "https://mamedene.com/magazines/192"
+      ]
+    },
+    {
+      "term": "빈티지펌",
+      "aliases": [
+        "빈티지 펌",
+        "텍스처 빈티지펌",
+        "vintage perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "texture": "texture_wave",
+        "curl_size": "small",
+        "curl_zone": "all_over",
+        "finish": "messy",
+        "volume": "balanced"
+      },
+      "visual_en": "Airy, natural perm with a slightly tousled, lived-in finish and soft volume rather than neat, defined curls.",
+      "must_not": [
+        "neat defined round curls",
+        "sleek straight hair"
+      ],
+      "description_ko": "공기감 있게 살짝 헝클어진 질감을 주는 펌. 한 출처는 히피 느낌의 촘촘한 잔컬로 설명해 컬 강도에 이견이 있다.",
+      "popularity": "medium",
+      "confidence": "low",
+      "sources": [
+        "https://creatrip.com/news/11583",
+        "https://www.esquirekorea.co.kr/article/1896805"
+      ]
+    },
+    {
+      "term": "쉼표펌",
+      "aliases": [
+        "쉼표 펌",
+        "comma perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "parting": "side_64",
+        "bangs": "side_swept",
+        "forehead": "half",
+        "texture": "c_curl",
+        "curl_size": "medium",
+        "curl_zone": "bang_ends",
+        "sides": "tapered"
+      },
+      "visual_en": "Perm that sets the comma bang: the side-swept front piece curls inward at its tip into a comma shape near the eyebrow, so it holds without daily styling.",
+      "must_not": [
+        "straight bangs down",
+        "curls all over",
+        "slicked back"
+      ],
+      "description_ko": "쉼표머리의 안말림 곡선을 펌으로 고정해 매일 손질하지 않아도 유지되게 하는 펌.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://creatrip.com/news/11583"
+      ]
+    },
+    {
+      "term": "리프펌",
+      "aliases": [
+        "리프 펌",
+        "leaf perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "length": "ear",
+        "parting": "center",
+        "bangs": "curtain",
+        "bangs_length": "eye",
+        "texture": "c_curl",
+        "curl_size": "medium",
+        "curl_zone": "mid_to_ends",
+        "sides": "over_ears"
+      },
+      "visual_en": "Perm on a leaf cut: long bangs grown below the brows, parted about 5:5 or 6:4, curving in a rounded C or S line along the forehead and tucked softly back toward the ears.",
+      "must_not": [
+        "short clipped sides",
+        "tight curls",
+        "swept-up front"
+      ],
+      "description_ko": "리프컷 형태를 유지하도록 앞머리와 옆머리에 C컬·S컬을 넣는 펌. 앞머리를 눈썹 아래까지 길러 5:5나 6:4로 나눈다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=341444",
+        "https://www.nimble-made.com/blogs/news/korean-perm-men"
+      ]
+    },
+    {
+      "term": "시스루펌",
+      "aliases": [
+        "시스루 펌",
+        "see-through perm"
+      ],
+      "gender": "unisex",
+      "category": "perm",
+      "attrs": {
+        "bangs": "see_through",
+        "forehead": "little",
+        "texture": "s_wave",
+        "curl_size": "small",
+        "curl_zone": "top_front"
+      },
+      "visual_en": "Perm with light, thinned see-through bangs that let the forehead show through, combined with soft natural waves.",
+      "must_not": [
+        "heavy full bangs",
+        "forehead fully exposed",
+        "tight curls"
+      ],
+      "description_ko": "시스루 앞머리의 가벼운 숱감에 자연스러운 웨이브를 더한 펌. 상세 정의 자료가 적다.",
+      "popularity": "medium",
+      "confidence": "low",
+      "sources": [
+        "https://carat.im/prompt-gallery/see-through-perm-hairstyle"
+      ]
+    },
+    {
+      "term": "앞머리펌",
+      "aliases": [
+        "앞머리 펌",
+        "덮머펌",
+        "덮머 펌",
+        "C컬펌",
+        "앞머리 C컬펌",
+        "bangs perm"
+      ],
+      "gender": "male",
+      "category": "perm",
+      "attrs": {
+        "bangs": "full_straight",
+        "forehead": "covered",
+        "texture": "c_curl",
+        "curl_size": "small",
+        "curl_zone": "bang_ends"
+      },
+      "visual_en": "Perm on the bangs only: the fringe is set to lie down over the forehead with the ends curling gently inward; the rest of the hair is unchanged.",
+      "must_not": [
+        "perm on the whole head",
+        "bangs lifted up off the forehead",
+        "big curls"
+      ],
+      "description_ko": "앞머리 라인만 펌해서 이마 쪽으로 눕히거나 안쪽으로 말아 주는 펌. 나머지 머리는 그대로 둔다.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://visioai.app/ko/blog/namja-peom-jongryu/",
+        "https://www.esquirekorea.co.kr/article/1911095"
+      ]
+    },
+    {
+      "term": "다운펌",
+      "aliases": [
+        "다운 펌",
+        "옆머리 다운펌",
+        "옆머리 다운",
+        "라인다운",
+        "라인다운매직",
+        "down perm"
+      ],
+      "gender": "male",
+      "category": "treatment",
+      "attrs": {
+        "sides": "flat_down"
+      },
+      "visual_en": "The side hair above the ears keeps its length but is made to lie smooth and flat against the head, with no puffing or sticking out.",
+      "must_not": [
+        "shaving or clipping the sides",
+        "undercut or fade",
+        "visible scalp on the sides",
+        "shortening the side hair",
+        "changing the top"
+      ],
+      "description_ko": "뜨는 옆머리와 뒷머리를 두피에 납작하게 붙이는 시술. 머리를 미는 것이 아니라 길이는 그대로 두고 눕히는 것이다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.marieclairekorea.com/beauty/2024/02/self-downperm",
+        "https://miinhair.com/sg/ko/blog/two-block-haircut",
+        "https://creatrip.com/news/11583"
+      ]
+    },
+    {
+      "term": "볼륨매직",
+      "aliases": [
+        "볼륨 매직",
+        "뿌리볼륨",
+        "뿌리 볼륨",
+        "뿌리펌",
+        "뿌리 펌",
+        "volume magic",
+        "root perm"
+      ],
+      "gender": "unisex",
+      "category": "treatment",
+      "attrs": {
+        "top": "lifted_root",
+        "texture": "straight",
+        "volume": "crown"
+      },
+      "visual_en": "The top hair is lifted at the roots for more height on the crown while the lengths stay smooth and straight, with no visible curl.",
+      "must_not": [
+        "visible curls or waves",
+        "puffy sides",
+        "flat top"
+      ],
+      "description_ko": "가라앉는 정수리·윗머리 뿌리를 세워 볼륨을 주는 시술. 컬은 거의 보이지 않는다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://visioai.app/ko/blog/namja-peom-jongryu/",
+        "https://m.cafe.daum.net/doshair/irm/348"
+      ]
+    },
+    {
+      "term": "5:5 가르마",
+      "aliases": [
+        "55가르마",
+        "5대5 가르마",
+        "가운데 가르마",
+        "센터 가르마",
+        "center part",
+        "middle part"
+      ],
+      "gender": "unisex",
+      "category": "part",
+      "attrs": {
+        "parting": "center",
+        "bangs": "curtain",
+        "forehead": "third"
+      },
+      "visual_en": "A centered 50/50 part with the bangs split evenly to both sides and curving outward like curtains, the middle of the forehead visible.",
+      "must_not": [
+        "side part",
+        "bangs covering the whole forehead",
+        "slicked back"
+      ],
+      "description_ko": "정중앙에 가르마를 타서 앞머리를 양쪽으로 균등하게 나눈 스타일.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.esquirekorea.co.kr/article/1911095",
+        "https://miinhair.com/sg/ko/blog/two-block-haircut"
+      ]
+    },
+    {
+      "term": "6:4 가르마",
+      "aliases": [
+        "64가르마",
+        "6대4 가르마",
+        "옆가르마"
+      ],
+      "gender": "unisex",
+      "category": "part",
+      "attrs": {
+        "parting": "side_64",
+        "bangs": "side_swept",
+        "forehead": "third"
+      },
+      "visual_en": "A slightly off-center side part at about 6:4, with the bangs swept mainly toward the wider side and a portion of the forehead visible.",
+      "must_not": [
+        "center part",
+        "deep side part",
+        "no part"
+      ],
+      "description_ko": "중앙에서 살짝 비켜 탄 가르마로 차분하고 단정한 인상을 준다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.esquirekorea.co.kr/article/1911095",
+        "https://creatrip.com/ja/blog/8754"
+      ]
+    },
+    {
+      "term": "7:3 가르마",
+      "aliases": [
+        "73가르마",
+        "7대3 가르마",
+        "3:7 가르마"
+      ],
+      "gender": "unisex",
+      "category": "part",
+      "attrs": {
+        "parting": "side_73",
+        "bangs": "side_swept",
+        "forehead": "half"
+      },
+      "visual_en": "A clear side part at about 7:3, with the hair on the wider side swept across and one side of the bangs falling down.",
+      "must_not": [
+        "center part",
+        "no part"
+      ],
+      "description_ko": "중앙에서 더 비켜 탄 옆가르마. 한쪽 앞머리를 내려 얼굴에 시선을 분산시킨다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.esquirekorea.co.kr/article/1911095",
+        "https://www.esquirekorea.co.kr/article/84031"
+      ]
+    },
+    {
+      "term": "8:2 가르마",
+      "aliases": [
+        "82가르마",
+        "2:8 가르마",
+        "28가르마",
+        "1:9 가르마",
+        "1:9 포마드"
+      ],
+      "gender": "male",
+      "category": "part",
+      "attrs": {
+        "parting": "deep_side",
+        "bangs": "swept_up",
+        "forehead": "full",
+        "top": "lifted_root"
+      },
+      "visual_en": "A very deep side part at about 8:2 or more, with the hair on one side lifted at the root and swept across, giving height and a sharp angular look with the forehead open.",
+      "must_not": [
+        "center part",
+        "bangs covering the forehead"
+      ],
+      "description_ko": "아주 깊게 탄 옆가르마로 한쪽 뿌리를 세워 높이와 각진 인상을 준다. 포마드 스타일에 주로 쓴다.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.esquirekorea.co.kr/article/1911095",
+        "https://tilnote.io/pages/6a0f36cf2b94477ac287b9d9"
+      ]
+    },
+    {
+      "term": "쉼표머리",
+      "aliases": [
+        "쉼표 머리",
+        "comma hair",
+        "comma bangs",
+        "콤마헤어"
+      ],
+      "gender": "male",
+      "category": "styling",
+      "attrs": {
+        "parting": "side_64",
+        "bangs": "side_swept",
+        "bangs_length": "brow",
+        "forehead": "half",
+        "texture": "c_curl",
+        "curl_zone": "bang_ends",
+        "sides": "tapered"
+      },
+      "visual_en": "Bangs swept to one side with the tip of the front piece curling inward into a comma shape near the eyebrow, the other side of the forehead visible, short neat sides.",
+      "must_not": [
+        "bangs straight down evenly",
+        "slicked back",
+        "curls all over"
+      ],
+      "description_ko": "옆으로 넘긴 앞머리 끝이 눈썹 근처에서 안쪽으로 말려 쉼표(,) 모양이 되는 스타일. 일부 기사에서는 가일펌과 같은 말로 쓴다.",
+      "popularity": "high",
+      "confidence": "medium",
+      "sources": [
+        "https://www.soompi.com/article/1344698wpp/male-celebs-who-effortlessly-pull-off-the-trendy-comma-hairstyle",
+        "https://creatrip.com/news/11583",
+        "https://miinhair.com/sg/ko/blog/two-block-haircut"
+      ]
+    },
+    {
+      "term": "시스루뱅",
+      "aliases": [
+        "시스루 뱅",
+        "시스루 앞머리",
+        "시스루",
+        "see-through bangs"
+      ],
+      "gender": "unisex",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "see_through",
+        "forehead": "little"
+      },
+      "visual_en": "Thin, wispy bangs with small gaps so the forehead shows through them.",
+      "must_not": [
+        "thick heavy bangs",
+        "forehead fully exposed"
+      ],
+      "description_ko": "숱을 적게 남겨 이마가 비쳐 보이는 가벼운 앞머리.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://visioai.app/ko/blog/namja-peom-jongryu/",
+        "https://www.marieclairekorea.com/?p=368510"
+      ]
+    },
+    {
+      "term": "커튼뱅",
+      "aliases": [
+        "커튼 뱅",
+        "커튼머리",
+        "커튼컷",
+        "curtain bangs",
+        "curtain hair"
+      ],
+      "gender": "unisex",
+      "category": "bangs",
+      "attrs": {
+        "parting": "center",
+        "bangs": "curtain",
+        "bangs_length": "cheekbone"
+      },
+      "visual_en": "Long bangs parted in the middle (about 5:5 or 6:4) and swept outward to both sides like curtains, reaching the eyes to cheekbones and framing the face.",
+      "must_not": [
+        "straight bangs across",
+        "slicked back",
+        "side-swept to one side only"
+      ],
+      "description_ko": "앞머리를 길게 길러 가운데에서 갈라 양옆으로 넘긴 스타일. 길이는 눈~광대~턱까지 다양하다.",
+      "popularity": "medium",
+      "confidence": "high",
+      "sources": [
+        "https://www.wkorea.com/?p=193066",
+        "https://www.gqkorea.co.kr/?p=356965",
+        "https://www.nimble-made.com/blogs/news/korean-haircut"
+      ]
+    },
+    {
+      "term": "덮머",
+      "aliases": [
+        "덮은머리",
+        "덮은 머리",
+        "앞머리 내린 머리",
+        "보이뱅",
+        "boy bangs",
+        "풀뱅",
+        "full bangs"
+      ],
+      "gender": "male",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "full_straight",
+        "bangs_length": "brow",
+        "forehead": "covered",
+        "parting": "none"
+      },
+      "visual_en": "Bangs brought down over the whole forehead to around the brows with no part, giving a soft, boyish look.",
+      "must_not": [
+        "forehead exposed",
+        "side part",
+        "swept-up front"
+      ],
+      "description_ko": "앞머리를 모두 내려 이마를 덮은 머리. 2026년 봄 '덮머의 시대'로 다시 유행했다.",
+      "popularity": "high",
+      "confidence": "high",
+      "sources": [
+        "https://www.gqkorea.co.kr/?p=359075",
+        "https://www.esquirekorea.co.kr/article/1911095"
+      ]
+    },
+    {
+      "term": "일자 앞머리",
+      "aliases": [
+        "일자앞머리",
+        "일자뱅",
+        "blunt bangs"
+      ],
+      "gender": "unisex",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "full_straight",
+        "ends": "blunt",
+        "forehead": "covered"
+      },
+      "visual_en": "Bangs cut in a sharp straight horizontal line across the forehead.",
+      "must_not": [
+        "thinned wispy bangs",
+        "side-swept bangs"
+      ],
+      "description_ko": "앞머리를 가로로 일자로 잘라 선이 또렷한 스타일.",
+      "popularity": "low",
+      "confidence": "medium",
+      "sources": [
+        "https://www.esquirekorea.co.kr/article/1911095"
+      ]
+    },
+    {
+      "term": "C컬 앞머리",
+      "aliases": [
+        "씨컬 앞머리",
+        "c-curl bangs"
+      ],
+      "gender": "unisex",
+      "category": "bangs",
+      "attrs": {
+        "bangs": "full_straight",
+        "texture": "c_curl",
+        "curl_zone": "bang_ends",
+        "forehead": "little"
+      },
+      "visual_en": "Bangs whose ends are curled softly inward in a C shape, framing the face.",
+      "must_not": [
+        "straight flat bangs",
+        "curls on the whole head"
+      ],
+      "description_ko": "앞머리 끝을 안쪽으로 C자로 말아 얼굴을 감싸게 한 스타일.",
+      "popularity": "medium",
+      "confidence": "medium",
+      "sources": [
+        "https://www.esquirekorea.co.kr/article/1911095"
+      ]
+    }
+  ]
+}

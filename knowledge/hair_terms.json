@@ -1,0 +1,15 @@
+{
+  "_about": "직접 추가하거나 고친 용어. 여기 적은 정의가 용어집(corpus/male.json, corpus/female.json)보다 우선합니다. 기본 용어는 corpus 폴더에 있습니다.",
+  "_example": {
+    "우리매장시그니처펌": {
+      "aliases": ["시그니처펌"],
+      "gender": "female",
+      "category": "perm",
+      "attrs": {"length": "shoulder", "texture": "c_curl", "curl_zone": "ends", "bangs": "see_through", "layers": "face_framing"},
+      "must_not": ["curls all over the head"],
+      "description_ko": "어깨선 C컬에 시스루뱅을 더한 매장 시그니처 스타일 (예시)",
+      "popularity": "high"
+    }
+  },
+  "terms": {}
+}

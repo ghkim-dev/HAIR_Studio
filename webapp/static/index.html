@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>AI 헤어 스타일 체험</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="mark" aria-hidden="true"></span><span>AI 헤어 스타일 체험</span></div>
+  <div class="infra" id="infra">H100 GPU · 경북 AI클라우드센터 Open AI Service Hub</div>
+</header>
+
+<main>
+  <!-- (a) 대기 화면 -->
+  <section class="screen active" id="s-attract">
+    <div class="attract">
+      <p class="eyebrow">Open AI Service Hub 시연</p>
+      <h1>AI 헤어 스타일 체험</h1>
+      <p class="lead">사진 한 장으로 새로운 헤어스타일을 미리 만나 보세요.<br>미용 용어를 이해하는 AI가 스타일을 해석하고, 직접 만들고, 스스로 검사합니다.</p>
+      <ol class="how">
+        <li><b>1</b><span>사진 촬영</span></li>
+        <li><b>2</b><span>스타일 선택</span></li>
+        <li><b>3</b><span>AI 합성·검증</span></li>
+        <li><b>4</b><span>QR로 결과 받기</span></li>
+      </ol>
+      <button class="btn primary xl" data-go="consent">시작하기</button>
+    </div>
+  </section>
+
+  <!-- (b) 동의 -->
+  <section class="screen" id="s-consent">
+    <div class="card narrow">
+      <h2>사진 이용 안내</h2>
+      <p id="privacy" class="privacy"></p>
+      <ul class="facts">
+        <li>사진은 이 체험의 합성에만 쓰여요</li>
+        <li id="retention-fact">일정 시간 뒤 자동 삭제돼요</li>
+        <li>결과 화면에서 바로 삭제할 수 있어요</li>
+      </ul>
+      <label class="consent"><input type="checkbox" id="consent-check"><span>위 내용을 확인했고 사진 이용에 동의합니다</span></label>
+      <div class="row end">
+        <button class="btn ghost" data-go="attract">이전</button>
+        <button class="btn primary" id="consent-next" disabled>동의하고 촬영하기</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- (c) 촬영 -->
+  <section class="screen" id="s-camera">
+    <div class="camera-wrap">
+      <div class="stage">
+        <video id="video" autoplay playsinline muted></video>
+        <img id="shot" alt="촬영한 사진" hidden>
+        <div class="guide" aria-hidden="true"></div>
+        <div class="countdown" id="countdown" hidden>3</div>
+        <div class="no-cam" id="no-cam" hidden>
+          <p>카메라를 사용할 수 없어요.<br>사진 파일을 올려 주세요.</p>
+        </div>
+      </div>
+      <aside class="side">
+        <h2>정면 사진을 찍어 주세요</h2>
+        <p class="muted">얼굴이 가운데 원 안에 오도록, 이마와 귀가 보이게 서 주세요. 안경은 그대로 써도 괜찮아요.</p>
+        <div class="stack" id="cam-actions">
+          <button class="btn primary xl" id="btn-capture">촬영 (3초 뒤)</button>
+          <label class="btn ghost file">사진 파일 올리기<input type="file" id="file" accept="image/*" hidden></label>
+        </div>
+        <div class="stack" id="shot-actions" hidden>
+          <button class="btn primary xl" id="btn-use">이 사진으로 계속</button>
+          <button class="btn ghost" id="btn-retake">다시 찍기</button>
+        </div>
+        <button class="btn text" data-go="attract">처음으로</button>
+      </aside>
+    </div>
+  </section>
+
+  <!-- (d) 스타일 선택 -->
+  <section class="screen" id="s-style">
+    <div class="style-wrap">
+      <aside class="side">
+        <img id="me" class="me" alt="내 사진">
+        <div class="seg" role="radiogroup" aria-label="스타일 구분">
+          <button role="radio" data-gender="male">남성</button>
+          <button role="radio" data-gender="female">여성</button>
+          <button role="radio" data-gender="" aria-checked="true">전체</button>
+        </div>
+        <div class="freetext">
+          <label for="free">원하는 스타일을 말로 설명하기</label>
+          <textarea id="free" rows="3" placeholder="예: 앞머리는 눈썹 위로 내리고 끝만 살짝 C컬, 옆은 차분하게"></textarea>
+        </div>
+        <button class="btn text" data-go="camera">사진 다시 찍기</button>
+      </aside>
+      <div class="gallery-col">
+        <div class="filters">
+          <div class="chips" id="cats"></div>
+          <input type="search" id="search" placeholder="스타일 이름 검색 (예: 레이어드, 히피펌)" aria-label="스타일 검색">
+        </div>
+        <div class="grid" id="grid" aria-live="polite"></div>
+      </div>
+    </div>
+    <div class="actionbar">
+      <div id="pick-summary" class="muted">스타일을 고르거나 원하는 모습을 적어 주세요</div>
+      <button class="btn primary xl" id="btn-make" disabled>AI로 만들기</button>
+    </div>
+  </section>
+
+  <!-- (e) 진행 -->
+  <section class="screen" id="s-progress">
+    <ol class="rail" id="rail">
+      <li data-step="terms"><span>용어 이해</span></li>
+      <li data-step="plan"><span>계획</span></li>
+      <li data-step="checklist"><span>체크리스트</span></li>
+      <li data-step="generate"><span>생성</span></li>
+      <li data-step="verify"><span>검증</span></li>
+      <li data-step="reflect"><span>반성·개선</span></li>
+    </ol>
+    <div class="progress-wrap">
+      <div class="col-left">
+        <img id="p-input" class="me" alt="입력 사진">
+        <div class="card terms-card">
+          <h3>AI가 이해한 스타일</h3>
+          <div id="terms"><p class="muted">미용 용어를 눈에 보이는 모양으로 바꾸는 중…</p></div>
+        </div>
+      </div>
+      <div class="col-right">
+        <div class="status-line"><span class="spinner" aria-hidden="true"></span><span id="status">준비 중…</span></div>
+        <div class="cands" id="cands"></div>
+        <div class="models" id="models"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- (f) 결과 -->
+  <section class="screen" id="s-result">
+    <div class="result-wrap">
+      <div class="compare" id="compare">
+        <img id="r-after" alt="AI 결과">
+        <div class="before-clip" id="before-clip"><img id="r-before" alt="원본"></div>
+        <div class="handle" id="handle" role="slider" aria-label="원본과 결과 비교" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" tabindex="0"><span></span></div>
+        <span class="tag left">원본</span><span class="tag right">AI 스타일</span>
+      </div>
+      <aside class="side result-side">
+        <h2 id="r-title">완성!</h2>
+        <div class="scores" id="r-scores"></div>
+        <div class="chips" id="r-terms"></div>
+        <div class="qr"><img id="r-qr" alt="결과 받기 QR 코드"><p>휴대폰 카메라로 찍으면<br>결과를 저장할 수 있어요</p></div>
+        <div class="stack">
+          <button class="btn primary" id="btn-again">다른 스타일 해보기</button>
+          <button class="btn ghost" id="btn-home">처음으로</button>
+          <button class="btn danger" id="btn-delete">내 사진 삭제</button>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- 오류 -->
+  <section class="screen" id="s-error">
+    <div class="card narrow">
+      <h2>앗, 잠시 문제가 생겼어요</h2>
+      <p id="err-msg" class="muted"></p>
+      <div class="row end">
+        <button class="btn ghost" data-go="attract">처음으로</button>
+        <button class="btn primary" id="btn-retry">다시 시도</button>
+      </div>
+    </div>
+  </section>
+</main>
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

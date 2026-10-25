@@ -1,0 +1,482 @@
+{
+  "_about": "헤어스타일을 표현하는 닫힌 속성 어휘. 모든 용어는 이 속성들의 조합으로 정의되고, 사전에 없는 용어도 이 어휘 안에서만 분해된다. 이미지 프롬프트와 검증 질문은 이 값의 'en' 묘사에서 만들어진다.",
+  "attributes": {
+    "length": {
+      "ko": "전체 기장",
+      "values": {
+        "buzz": {
+          "ko": "삭발·버즈",
+          "en": "buzzed very close to the scalp"
+        },
+        "very_short": {
+          "ko": "아주 짧음",
+          "en": "very short hair, a few centimetres long"
+        },
+        "short": {
+          "ko": "짧은 머리(귀 위)",
+          "en": "short hair ending above the ears"
+        },
+        "ear": {
+          "ko": "귀 길이",
+          "en": "hair reaching about ear level"
+        },
+        "chin": {
+          "ko": "턱선(단발)",
+          "en": "hair reaching the jawline"
+        },
+        "neck": {
+          "ko": "목선",
+          "en": "hair reaching the neck"
+        },
+        "shoulder": {
+          "ko": "어깨선(중단발)",
+          "en": "hair reaching the shoulders"
+        },
+        "chest": {
+          "ko": "가슴선(긴머리)",
+          "en": "long hair reaching the chest"
+        },
+        "waist": {
+          "ko": "허리(아주 긴 머리)",
+          "en": "very long hair reaching the mid-back or waist"
+        }
+      }
+    },
+    "top": {
+      "ko": "윗머리",
+      "values": {
+        "flat": {
+          "ko": "가라앉음",
+          "en": "top lying flat"
+        },
+        "natural": {
+          "ko": "자연스러운 볼륨",
+          "en": "natural volume on top"
+        },
+        "lifted_root": {
+          "ko": "뿌리 볼륨",
+          "en": "top lifted at the roots for extra height"
+        },
+        "raised_back": {
+          "ko": "올려 넘김",
+          "en": "front and top raised up and swept back"
+        },
+        "textured_choppy": {
+          "ko": "자글자글 질감",
+          "en": "choppy, piece-y textured top"
+        }
+      }
+    },
+    "parting": {
+      "ko": "가르마",
+      "values": {
+        "none": {
+          "ko": "가르마 없음",
+          "en": "no visible part"
+        },
+        "center": {
+          "ko": "5:5 가운데",
+          "en": "a centered 50/50 part"
+        },
+        "side_64": {
+          "ko": "6:4 옆가르마",
+          "en": "a side part at about 6:4"
+        },
+        "side_73": {
+          "ko": "7:3 옆가르마",
+          "en": "a side part at about 7:3"
+        },
+        "deep_side": {
+          "ko": "8:2 깊은 옆가르마",
+          "en": "a deep side part at about 8:2"
+        },
+        "hard_part": {
+          "ko": "면도선 가르마",
+          "en": "a sharp shaved line marking the side part"
+        }
+      }
+    },
+    "bangs": {
+      "ko": "앞머리 형태",
+      "values": {
+        "none_exposed": {
+          "ko": "앞머리 없이 이마 노출",
+          "en": "no bangs, forehead exposed"
+        },
+        "full_straight": {
+          "ko": "일자로 내림",
+          "en": "full straight bangs falling down over the forehead"
+        },
+        "see_through": {
+          "ko": "시스루",
+          "en": "thin wispy see-through bangs with gaps showing the forehead"
+        },
+        "side_swept": {
+          "ko": "옆으로 넘김",
+          "en": "bangs swept diagonally to one side"
+        },
+        "curtain": {
+          "ko": "커튼(양옆 갈림)",
+          "en": "curtain bangs parted in the middle and curving outward to both sides"
+        },
+        "face_framing": {
+          "ko": "얼굴선 따라 내려오는 옆머리",
+          "en": "long face-framing pieces falling along the cheeks"
+        },
+        "swept_up": {
+          "ko": "올려 넘김",
+          "en": "bangs swept up and back off the forehead"
+        },
+        "short_fringe": {
+          "ko": "짧은 일자 앞머리",
+          "en": "a very short straight fringe high on the forehead"
+        }
+      }
+    },
+    "bangs_length": {
+      "ko": "앞머리 길이",
+      "values": {
+        "forehead_mid": {
+          "ko": "이마 중간",
+          "en": "ending mid-forehead"
+        },
+        "brow": {
+          "ko": "눈썹 위",
+          "en": "ending just above the eyebrows"
+        },
+        "eye": {
+          "ko": "눈 근처",
+          "en": "reaching the eyes"
+        },
+        "cheekbone": {
+          "ko": "광대",
+          "en": "reaching the cheekbones"
+        },
+        "chin": {
+          "ko": "턱",
+          "en": "reaching the chin"
+        }
+      }
+    },
+    "forehead": {
+      "ko": "이마 노출",
+      "values": {
+        "covered": {
+          "ko": "가림",
+          "en": "forehead covered"
+        },
+        "little": {
+          "ko": "살짝 보임",
+          "en": "a little forehead visible through gaps"
+        },
+        "third": {
+          "ko": "1/3 정도",
+          "en": "about one third of the forehead visible"
+        },
+        "half": {
+          "ko": "절반",
+          "en": "about half the forehead visible"
+        },
+        "full": {
+          "ko": "완전 노출",
+          "en": "forehead fully visible"
+        }
+      }
+    },
+    "texture": {
+      "ko": "컬·웨이브",
+      "values": {
+        "straight": {
+          "ko": "생머리·스트레이트",
+          "en": "straight hair"
+        },
+        "sleek_straight": {
+          "ko": "매직 스트레이트",
+          "en": "very sleek, poker-straight hair"
+        },
+        "c_curl": {
+          "ko": "C컬",
+          "en": "ends curving inward in a soft C shape"
+        },
+        "s_wave": {
+          "ko": "S컬·S웨이브",
+          "en": "soft S-shaped waves"
+        },
+        "loose_wave": {
+          "ko": "굵은 웨이브",
+          "en": "loose large waves"
+        },
+        "body_wave": {
+          "ko": "바디펌",
+          "en": "soft voluminous body waves"
+        },
+        "tight_curl": {
+          "ko": "잔 컬(히피)",
+          "en": "small tight spiral curls"
+        },
+        "texture_wave": {
+          "ko": "자연스러운 질감 웨이브",
+          "en": "messy natural texture waves"
+        },
+        "outward_flip": {
+          "ko": "바깥 뻗침(빌드)",
+          "en": "ends flipped outward"
+        }
+      }
+    },
+    "curl_size": {
+      "ko": "컬 크기",
+      "values": {
+        "none": {
+          "ko": "없음",
+          "en": "no curl"
+        },
+        "small": {
+          "ko": "작게",
+          "en": "small"
+        },
+        "medium": {
+          "ko": "중간",
+          "en": "medium-sized"
+        },
+        "large": {
+          "ko": "크게",
+          "en": "large"
+        }
+      }
+    },
+    "curl_zone": {
+      "ko": "컬 위치",
+      "values": {
+        "bang_ends": {
+          "ko": "앞머리 끝",
+          "en": "only at the ends of the bangs"
+        },
+        "ends": {
+          "ko": "모발 끝",
+          "en": "only at the hair ends"
+        },
+        "top_front": {
+          "ko": "윗머리·앞머리",
+          "en": "on the top and front"
+        },
+        "mid_to_ends": {
+          "ko": "중간~끝",
+          "en": "from mid-length to the ends"
+        },
+        "all_over": {
+          "ko": "전체",
+          "en": "all over the head"
+        }
+      }
+    },
+    "sides": {
+      "ko": "옆머리",
+      "values": {
+        "skin_fade": {
+          "ko": "스킨페이드",
+          "en": "sides faded down to the skin"
+        },
+        "clipped": {
+          "ko": "짧게 밀어올림(투블럭 아랫단)",
+          "en": "lower sides clipped very short"
+        },
+        "tapered": {
+          "ko": "가위로 짧게 정리(피부 안 보임)",
+          "en": "sides trimmed neatly with scissors, still fully covered with hair"
+        },
+        "flat_down": {
+          "ko": "다운펌으로 눌림",
+          "en": "side hair keeps its length but lies smooth and flat against the head (no scalp showing)"
+        },
+        "over_ears": {
+          "ko": "귀를 덮음",
+          "en": "side hair covering the ears"
+        },
+        "long": {
+          "ko": "길게 내려옴",
+          "en": "long side hair falling past the jaw"
+        }
+      }
+    },
+    "back": {
+      "ko": "뒷머리",
+      "values": {
+        "tapered": {
+          "ko": "짧게 정리",
+          "en": "short tapered nape"
+        },
+        "clipped": {
+          "ko": "밀어올림",
+          "en": "clipped nape"
+        },
+        "natural": {
+          "ko": "자연스러움",
+          "en": "natural back"
+        },
+        "longer_nape": {
+          "ko": "뒷머리 길게(울프·멀렛)",
+          "en": "noticeably longer hair at the nape"
+        },
+        "stacked": {
+          "ko": "층 쌓은 뒤통수(보브)",
+          "en": "stacked, graduated back with volume at the crown"
+        }
+      }
+    },
+    "layers": {
+      "ko": "층",
+      "values": {
+        "one_length": {
+          "ko": "층 없음(일자)",
+          "en": "one-length, no layers"
+        },
+        "light": {
+          "ko": "가벼운 층",
+          "en": "light layers"
+        },
+        "heavy": {
+          "ko": "많은 층(허쉬·울프)",
+          "en": "heavy choppy layers"
+        },
+        "face_framing": {
+          "ko": "얼굴 주변 레이어",
+          "en": "layers framing the face"
+        },
+        "graduated": {
+          "ko": "그래쥬에이션",
+          "en": "graduated layers stacked at the back"
+        }
+      }
+    },
+    "ends": {
+      "ko": "끝 모양",
+      "values": {
+        "blunt": {
+          "ko": "일자로 뚝",
+          "en": "blunt straight-cut ends"
+        },
+        "thinned": {
+          "ko": "가볍게 숱침",
+          "en": "softly thinned ends"
+        },
+        "inward": {
+          "ko": "안으로 말림",
+          "en": "ends turning inward"
+        },
+        "outward": {
+          "ko": "바깥으로 뻗침",
+          "en": "ends flipping outward"
+        }
+      }
+    },
+    "volume": {
+      "ko": "볼륨 위치",
+      "values": {
+        "minimal": {
+          "ko": "볼륨 없음",
+          "en": "minimal volume, close to the head"
+        },
+        "crown": {
+          "ko": "정수리",
+          "en": "volume at the crown"
+        },
+        "top_front": {
+          "ko": "앞·윗머리",
+          "en": "volume at the front and top"
+        },
+        "balanced": {
+          "ko": "고르게",
+          "en": "balanced rounded volume all around"
+        },
+        "ends": {
+          "ko": "끝부분",
+          "en": "volume toward the ends"
+        },
+        "overall_big": {
+          "ko": "전체 크게",
+          "en": "big voluminous overall shape"
+        }
+      }
+    },
+    "finish": {
+      "ko": "마무리 질감",
+      "values": {
+        "natural_matte": {
+          "ko": "자연스러운 무광",
+          "en": "natural matte finish"
+        },
+        "glossy": {
+          "ko": "광택",
+          "en": "glossy finish"
+        },
+        "wet": {
+          "ko": "젖은 느낌",
+          "en": "wet-look finish"
+        },
+        "messy": {
+          "ko": "헝클어진 질감",
+          "en": "deliberately messy texture"
+        },
+        "sleek": {
+          "ko": "매끈",
+          "en": "sleek smooth finish"
+        }
+      }
+    },
+    "silhouette": {
+      "ko": "실루엣",
+      "values": {
+        "round": {
+          "ko": "둥근",
+          "en": "rounded silhouette"
+        },
+        "egg": {
+          "ko": "계란형",
+          "en": "soft egg-shaped silhouette"
+        },
+        "a_line": {
+          "ko": "A라인",
+          "en": "A-line silhouette, longer in front"
+        },
+        "square": {
+          "ko": "각진",
+          "en": "squared silhouette"
+        },
+        "shaggy": {
+          "ko": "샤기",
+          "en": "shaggy, airy silhouette"
+        },
+        "straight_line": {
+          "ko": "일자 라인",
+          "en": "straight vertical line"
+        }
+      }
+    },
+    "updo": {
+      "ko": "묶음·업스타일",
+      "values": {
+        "none": {
+          "ko": "풀어 내림",
+          "en": "hair worn down"
+        },
+        "half_up": {
+          "ko": "반묶음",
+          "en": "half-up, the top section tied back"
+        },
+        "ponytail": {
+          "ko": "포니테일",
+          "en": "tied in a ponytail"
+        },
+        "bun": {
+          "ko": "번·똥머리",
+          "en": "tied in a bun"
+        },
+        "braid": {
+          "ko": "땋은 머리",
+          "en": "braided"
+        }
+      }
+    }
+  }
+}
